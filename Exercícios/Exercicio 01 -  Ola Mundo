@@ -1,7 +1,7 @@
 algoritmo "Exercicio_01"
 //Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
 //AUTOR: Argemiro Correia
-//Curso em Vídeo: Gustavo Guanabara
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
 //DATA: 25/11/2022
 var
 inicio
