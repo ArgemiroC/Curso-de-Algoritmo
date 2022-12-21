@@ -1,0 +1,11 @@
+algoritmo "Exercicío_01"
+//Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Gustavo Guanabara
+//DATA: 25/11/2022
+var
+inicio
+   Escreval("==============")
+   Escreval("  Olá Mundo!  ")
+   Escreval("==============")
+fimalgoritmo
