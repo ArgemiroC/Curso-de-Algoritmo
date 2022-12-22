@@ -1,0 +1,27 @@
+algoritmo "Exercicio_16"
+//[DESAFIO] Escreva um programa para calcular a redução do tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados por dias e quantos anos ele já fumou. Considere que um fumante perde 10 min de vida a cada cigarro. Calcule quantos dias de vida um fumante perderá e exiba o total em dias.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 22/12/2022
+Var
+   Cigarros, Anos, T_Cigarros, T_Anos : Inteiro
+   Dias: Real
+   Nome: Caractere
+Inicio
+   Escreval("==========================================")
+   Escreval("  REDUÇÃO DE TEMPO DE VIDA DE UM FUMANTE  ")
+   Escreval("==========================================")
+   Escreva("Qual o nome do paciente? ")
+   Leia(Nome)
+   Escreval("--------------------------------------")
+   Escreva("Quantos cigarros ", Nome, " fuma por dia? ")
+   Leia(Cigarros)
+   Escreval("--------------------------------------")
+   Escreva("Quantos anos ", Nome, " já fumou? ")
+   Leia(Anos)
+   Escreval("--------------------------------------")
+   T_Anos <- Anos * 365
+   T_Cigarros <- Cigarros * T_Anos
+   Dias <- (T_Cigarros * 10) / 1440
+   Escreval("Por fumar", Cigarros, " Cigarro por dia, durante", Anos, " anos,o paciente ", Nome," irar diminuir o equivalente a ", Dias:4:2, " dias de sua vida.")
+Fimalgoritmo
