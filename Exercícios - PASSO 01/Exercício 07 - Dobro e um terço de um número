@@ -1,0 +1,20 @@
+algoritmo "Exercicio_07"
+//Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a sua terça parte.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 21/12/2022
+Var
+  Numero, Dobro, Terco: Real
+Inicio
+   Escreval("===============================")
+   Escreval(" DOBRO E UM TERÇO DE UM NÚMERO ")
+   Escreval("===============================")
+   Escreva("Digite um número: ")
+   Leia(Numero)
+   Dobro <- Numero * 2
+   Terco <- Numero / 3
+   Escreval("--------------------------------")
+   Escreval("O dobro de", Numero, " é",Dobro)
+   Escreval("A terça parte de", Numero, " é ", Terco:4:2)
+   Escreva("--------------------------------")
+Fimalgoritmo
