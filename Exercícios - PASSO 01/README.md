@@ -38,3 +38,12 @@ Nota 2: 8.5<br/>
 **Ex:** Digite um número: 3.5<br/>
 **_O dobro de 3.5 é 7.0_**<br/>
 **_A terça parte de 3.5_** é 1.16666 [Visualize](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2001/Exerc%C3%ADcio%2007%20-%20Dobro%20e%20um%20ter%C3%A7o%20de%20um%20n%C3%BAmero)<br/>![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2007(Dobro%20e%20um%20ter%C3%A7o%20de%20um%20n%C3%BAmero).jpeg)<br/>
+8) Desenvolva um programa que leia uma distância em metros e mostre os valores relativos em outras medidas.<br/>
+**Ex:** Digite uma distância em metros: 185.72<br/>
+**_A distância de 185.72m corresponde a:_**<br/>
+**_0.18572Km_**<br/>
+**_1.8572Hm_**<br/>
+**_18.572Dam_**<br/>
+**_1857.2dm_**<br/>
+**_18572.0cm_**<br/>
+**_185720.0mm_** [Visualize](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2001/Exerc%C3%ADcio%2008%20-%20Dist%C3%A2ncia%20em%20Metros%20e%20seus%20correspondentes)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2008(Dist%C3%A2ncia%20em%20metros%20e%20seus%20correspondentes).jpeg)<br/>
