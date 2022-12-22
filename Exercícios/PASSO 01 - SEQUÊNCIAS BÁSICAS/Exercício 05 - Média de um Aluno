@@ -1,0 +1,23 @@
+algoritmo "Exercicío_05"
+//Faça um programa que leia as duas notas de um aluno em uma matéria e mostre na tela a sua média na disciplina.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 25/11/2022
+Var
+   Nome: Caractere
+   Nota1, Nota2, Media: Real
+Inicio
+   Escreval("=============================")
+   Escreval("      MÉDIA DE UM ALUNO      ")
+   Escreval("=============================")
+   Escreva("Qual o nome do aluno? ")
+   Leia(Nome)
+   Escreva("Qual a primeira Nota? ")
+   Leia(Nota1)
+   Escreva("Qual a segunda Nota? ")
+   Leia(Nota2)
+   Media <- (Nota1 + Nota2)/2
+   Escreval("-------------------------------------------------------")
+   Escreval("A média do aluno ", Nome, " entre", Nota1, " e", Nota2, " é igual a", Media)
+   Escreval("-------------------------------------------------------")
+Fimalgoritmo
