@@ -21,7 +21,12 @@ entre eles.<br/>
 **Ex:**
 Digite um valor: 8<br/>
 Digite outro valor: 5<br/>
-**_A soma entre 8 e 5 é igual a 13._**<br/>    
+**_A soma entre 8 e 5 é igual a 13._**<br/>
+5) Faça um programa que leia as duas notas de um aluno em uma matéria e mostre
+na tela a sua média na disciplina.<br/>
+**Ex:** Nota 1: 4.5<br/>
+Nota 2: 8.5<br/>
+**_A média entre 4.5 e 8.5 é igual a 6.5_**<br/>
     
 # :computer: Tecnologias utilizadas
 
