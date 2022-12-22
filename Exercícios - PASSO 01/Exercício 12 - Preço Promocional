@@ -1,0 +1,18 @@
+algoritmo "Exercicio_12"
+//Crie um programa que leia o preço de um produto, calcule e mostre o seu PREÇO PROMOCIONAL, com 5% de desconto.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 22/12/2022
+Var
+   Preco, Desconto: Real
+Inicio
+   Escreval("================================")
+   Escreval("        PREÇO PROMOCIONAL       ")
+   Escreval("================================")
+   Escreva("Qual o preço do produto? R$ ")
+   Leia(Preco)
+   Desconto <- Preco - (Preco * 5/100)
+   Escreval("--------------------------------------------")
+   Escreval("O preço promorcional do produto é: R$", Desconto:4:2)
+   Escreval("--------------------------------------------")
+Fimalgoritmo
