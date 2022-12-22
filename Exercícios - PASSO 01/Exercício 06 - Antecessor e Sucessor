@@ -1,0 +1,19 @@
+Algoritmo "Exercício_06"
+//Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 25/11/2022
+Var
+   Numero, Antecessor, Sucessor: Inteiro
+Inicio
+   Escreval("=========================")
+   Escreval("  ANTECESSOR E SUCESSOR  ")
+   Escreval("=========================")
+   Escreva("Digite um Número: ")
+   Leia(Numero)
+   Antecessor <- Numero - 1
+   Sucessor <- Numero + 1
+   Escreval("-------------------------")
+   Escreval("O antecessor de", Numero, " é", Antecessor)
+   Escreval("O sucessor de", Numero, " é", Sucessor)
+Fimalgoritmo 
