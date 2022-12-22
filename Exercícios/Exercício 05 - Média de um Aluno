@@ -21,3 +21,5 @@ Inicio
    Escreval("A média do aluno ", Nome, " entre", Nota1, " e", Nota2, " é igual a", Media)
    Escreval("-------------------------------------------------------")
 Fimalgoritmo
+
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2005(M%C3%A9dia%20de%20um%20aluno).jpeg)
