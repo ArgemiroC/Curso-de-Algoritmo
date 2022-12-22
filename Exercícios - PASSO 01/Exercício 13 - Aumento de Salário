@@ -1,0 +1,18 @@
+algoritmo "Exercicio_13"
+//Faça um algoritmo que leia o salário de um funcionário, calcule e mostre o seu novo salário, com 15% de aumento.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 22/12/2022
+Var
+   Salario, Aumento: Real
+Inicio
+   Escreval("================================")
+   Escreval("      AUMENTO DE SALÁRIO        ")
+   Escreval("================================")
+   Escreva("Qual o salário atual? R$ ")
+   Leia(Salario)
+   Aumento <- Salario + (Salario * 15/100)
+   Escreval("--------------------------------")
+   Escreval("O novo salário será: R$ ", Aumento:4:2)
+   Escreval("--------------------------------")
+Fimalgoritmo
