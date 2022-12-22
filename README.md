@@ -27,6 +27,10 @@ na tela a sua média na disciplina.<br/>
 **Ex:** Nota 1: 4.5<br/>
 Nota 2: 8.5<br/>
 **_A média entre 4.5 e 8.5 é igual a 6.5_** [Visualize](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%2005%20-%20M%C3%A9dia%20de%20um%20Aluno)<br/>
+6) Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor.<br/>
+**Ex:** Digite um número: 9<br/>
+**_O antecessor de 9 é 8_**<br/>
+**_O sucessor de 9 é 10_** [Visualize](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%2006%20-%20Antecessor%20e%20Sucessor)<br/>
     
 # :computer: Tecnologias utilizadas
 
