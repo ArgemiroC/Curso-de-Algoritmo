@@ -17,4 +17,4 @@ Inicio
    Escreval("----------------------------------")
    Escreval("A soma entre",Valor1, " e",Valor2," é igual a",Soma)
    Escreval("----------------------------------")
-Fimalgoritmo 
+Fimalgoritmo   
