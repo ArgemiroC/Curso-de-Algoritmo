@@ -1,0 +1,33 @@
+algoritmo "Aula_01"
+//Algoritmo para Atravessando ou não a rua
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 22/12/2022
+Var
+   Resposta, Valor: Inteiro
+Inicio
+   Escreval("===================================")
+   Escreval("        ATRAVESSANDO A RUA         ")
+   Escreval("===================================")
+   Escreval("       Chegando na rua olhe:       ")
+   Escreval("Para Direita e depois para Esquerda.")
+   Escreval("Então responda se estar vindo carro?  ")
+   Escreval("-----------------------------------")
+   Escreval("[1] Não Vem Carro")
+   Escreval("[2] Vem Carro")
+   Leia(Resposta)
+   Escreval("-----------------------------------")
+   Escolha Resposta
+   Caso 1
+      Valor <- 1
+   Caso 2
+      Valor <- 2
+   FimEscolha
+   Se (Resposta = 1) entao
+      Escreval("Pode Atrevessar a rua com segurança")
+   SeNao
+      Escreval("    Não pode atrvesar a rua.    ")
+      Escreval("     Por Falta de Segurança.    ")
+   FimSe
+   Escreval("-----------------------------------")
+Fimalgoritmo
