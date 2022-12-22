@@ -1,0 +1,42 @@
+algoritmo "Exercicio_11"
+//11) Desenvolva uma lógica que leia os valores de A, B e C de uma equação do segundo grau e mostre o valor de Delta.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 22/12/2022
+Var
+   a, b, c, delta, x1, x2: Real
+Inicio
+   Escreval("=====================================================")
+   Escreval("   CALCULANDO DELTA DE UMA EQUAÇÃO DO SEGUNDO GRAU   ")
+   Escreval("=====================================================")
+   Escreva("Qual o valor de (a): ")
+   Leia(a)
+   Escreva("Qual o valor de (b): ")
+   Leia(b)
+   Escreva("Qual o valor de (c): ")
+   Leia(c)
+   delta <- (b^2) - (4*a*c)
+   Escreval("-----------------------------------------------------")
+   Escreval("       Delta dessa equação do 2º Grau é:", Delta      )
+   Escreval("-----------------------------------------------------")
+   Escreval("")
+   Escreval("  |||||Acréscimo no exercício para aprimoramento|||||")
+   Escreval("=====================================================")
+   Escreval("           VERIFICANDO SE TEM DUAS RAIZES            ")
+   Escreval("=====================================================")
+    Se (delta > 0) entao
+      x1 <- (-b + Raizq(delta)) / (2*a)
+      x2 <- (-b - Raizq(delta)) / (2*a)
+      Escreval("A equação possui 2 raízes reais")
+      Escreval("x1 = ", x1:3:2)
+      Escreval("x2 = ", x2:3:2)
+   SeNao
+     Se(delta = 0) entao
+        x1 <- -b / (2*a)
+        Escreval("A equação possui 1 raíze real")
+        Escreval("x1 = ", x1)
+     SeNao
+        Escreval("A equação não possui raízes reais")
+     FimSe
+   FimSe
+Fimalgoritmo
