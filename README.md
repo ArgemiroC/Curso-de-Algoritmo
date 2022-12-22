@@ -6,16 +6,19 @@
  # :page_with_curl: Exercício
  **PASSO 01 - SEQUÊNCIAS BÁSICAS**
  
-1) Escreva um programa que mostre na tela a mensagem **"Olá, Mundo!"** [Visualize](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios/Exercicio%2001%20-%20%20Ola%20Mundo)
+1) Escreva um programa que mostre na tela a mensagem **"Olá, Mundo!"** [Visualize](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios/Exercicio%2001%20-%20%20Ola%20Mundo)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2001(Ola%20Mundo!).jpeg)
 2) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas vindas
 para ela:<br>
 **Ex:** Qual é o seu nome? João da Silva<br/>
     **_Olá João da Silva, é um prazer te conhecer!_** [Visualize](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios/Exercicio%2002%20-%20Mensagem%20de%20boas%20vindas)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2002(Mensagem%20de%20Boas%20Vindas).jpeg)
 3) Crie um programa que leia o nome e o salário de um funcionário, mostrando no
 final uma mensagem.<br/> 
 **Ex:** Nome do Funcionário: Maria do Carmo<br/>
     Salário: 1850,45<br/>
     **_O funcionário Maria do Carmo tem um salário de R$1850,45 em Junho._** [Visualize](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%2003%20-%20Funcion%C3%A1rio%2C%20Sal%C3%A1rio%2C%20M%C3%AAs)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2003(Funcion%C3%A1rio%2C%20M%C3%AAs%2C%20Sal%C3%A1rio).jpeg)
 4) Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório
 entre eles.<br/>
 **Ex:**
