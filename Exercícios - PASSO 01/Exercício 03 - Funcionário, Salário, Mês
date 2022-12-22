@@ -1,0 +1,21 @@
+algoritmo "Exercicío_03"
+//Crie um programa que leia o nome e o salário de um funcionário, mostrando no final uma mensagem.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 25/11/2022
+Var
+   Nome, Mes: Caractere
+   Salario: Real
+Inicio
+   Escreval("=========================================")
+   Escreval("        FUNCIONÁRIO, MÊS, SALÁRIO        ")
+   Escreval("=========================================")
+   Escreva("Qual o Nome do Funcionário? ")
+   Leia(Nome)
+   Escreva("Qual mês referência? ")
+   Leia(Mes)
+   Escreva("Qual o valor do sálario? R$ ")
+   Leia(Salario)
+   Escreval("-----------------------------------------")
+   Escreval("O funcionário ",Nome," tem um Salário de R$ ",Salario:5:2,", referente ao mês de ",Mes,".")
+Fimalgoritmo
