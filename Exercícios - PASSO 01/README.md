@@ -34,3 +34,7 @@ Nota 2: 8.5<br/>
 **Ex:** Digite um número: 9<br/>
 **_O antecessor de 9 é 8_**<br/>
 **_O sucessor de 9 é 10_** [Visualize](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2001/Exerc%C3%ADcio%2006%20-%20Antecessor%20e%20Sucessor)<br/>![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2006(Antecessor%20e%20Sucessor).jpeg)<br/>
+7) Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a sua terça parte.<br/>
+**Ex:** Digite um número: 3.5<br/>
+**_O dobro de 3.5 é 7.0_**<br/>
+**_A terça parte de 3.5_** é 1.16666 [Visualize](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2001/Exerc%C3%ADcio%2007%20-%20Dobro%20e%20um%20ter%C3%A7o%20de%20um%20n%C3%BAmero)<br/>![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2007(Dobro%20e%20um%20ter%C3%A7o%20de%20um%20n%C3%BAmero).jpeg)<br/>
