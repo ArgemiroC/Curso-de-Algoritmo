@@ -1,0 +1,20 @@
+algoritmo "Exercicio_10"
+//Faça um algoritmo que leia a largura e altura de uma parede, calcule e mostre a área a ser pintada e a quantidade de tinta necessária para o serviço, sabendo que cada litro de tinta pinta uma área de 2metros quadrados.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 22/12/2022
+Var
+   Largura, Altura, Metros, Tinta: Real
+Inicio
+   Escreval("=====================================================")
+   Escreval("CÁLCULO DE QUANTIDADE DE TINTA PARA PINTAR UMA PAREDE")
+   Escreval("=====================================================")
+   Escreva("Qual a largura da parede em (m)? ")
+   Leia(Largura)
+   Escreva("Qual a altura da parede em (m)? ")
+   Leia(Altura)
+   Metros <- Largura * Altura
+   Tinta <- Metros / 2
+   Escreval("-----------------------------------------------------")
+   Escreval("Para pintar a parede com ", Metros:2:2, " metros quadrados, será necessário ", Tinta:2:2, " litros de tinta.")
+Fimalgoritmo
