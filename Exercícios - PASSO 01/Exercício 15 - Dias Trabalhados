@@ -1,0 +1,21 @@
+algoritmo "Exercicio_15"
+//15) Crie um programa que leia o número de dias trabalhados em um mês e mostre o salário de um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$25 por hora trabalhada.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 22/12/2022
+Var
+   Nome: Caractere
+   Dias, Total: Real
+Inicio
+   Escreval("==========================================")
+   Escreval("            DIAS TRABALHADOS              ")
+   Escreval("==========================================")
+   Escreva("Qual o nome do funcionário? ")
+   Leia(Nome)
+   Escreval("------------------------------------------")
+   Escreva("Quantos dias ele trabalhou? ")
+   Leia(Dias)
+   Total <- Dias * 8 * 25
+   Escreval("------------------------------------------")
+   Escreval("O salário de ", Nome, " referente ao dias trabalhados no mês será: ", Total:4:2)
+Fimalgoritmo
