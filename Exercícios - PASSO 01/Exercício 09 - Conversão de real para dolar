@@ -1,0 +1,18 @@
+algoritmo "Exercicio_09"
+//Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$) e mostre quantos dólares ela pode comprar. Considere US$1.00 = R$5.21.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 22/12/2022
+Var
+  Reais, Dolares: Real
+Inicio
+   Escreval("=============================================")
+   Escreval("           CONVERSÃO REAL PARA DOLAR         ")
+   Escreval("=============================================")
+   Escreva("Quantos reais você tem na carteira: R$ ")
+   Leia(Reais)
+   Dolares <- Reais / 5.21
+   Escreval("---------------------------------------------")
+   Escreval("Você pode trocar esse valor por: US$ ", Dolares:4:2)
+   Escreval("---------------------------------------------")
+Fimalgoritmo
