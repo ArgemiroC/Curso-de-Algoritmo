@@ -1,1 +1,7 @@
-teste
+# :books: Curso de Algoritmo
+**Exercicío do Curso de Algoritmo**
+
+ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de Algorito do Curso em Vídeo com o Professor Gustavo Guanabara, no programa VisuAlg
+ 
+ # :page_with_curl: Exercício
+ **PASSO 02 - CONDIÇÕES BÁSICAS**
