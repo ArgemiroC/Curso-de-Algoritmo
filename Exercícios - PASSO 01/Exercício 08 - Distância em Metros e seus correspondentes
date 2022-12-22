@@ -1,0 +1,28 @@
+algoritmo "Exercicio_08"
+//Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 22/12/2022
+Var
+   Metros, Km, Hm, Dam, dm, cm,mm: Real
+Inicio
+   Escreval("==============================================")
+   Escreval("  DISTÂNCIA EM METROS E SEUS CORRESPONDENTES  ")
+   Escreval("==============================================")
+   Escreva("     Digite uma distância em metros: ")
+   Leia(Metros)
+   km <- Metros / 1000
+   Hm <- Metros / 100
+   Dam <- Metros / 10
+   dm <- Metros * 10
+   cm <- Metros * 100
+   mm <- Metros * 1000
+   Escreval("==============================================")
+   Escreval("A distância de", Metros, " metros, corresponde a: ")
+   Escreval("-> kilometro(Km)", kM,"km")
+   Escreval("-> Hectômetro(Hm)", Hm,"Hm")
+   Escreval("-> Decâmetro(Dam)", Dam,"Dam")
+   Escreval("-> Decímetro(dm) ", dm:6:1,"dm")
+   Escreval("-> Centímetros(cm)", cm:8:1,"cm")
+   Escreval("-> Milímetros(mm) ", mm:8:1,"mm")
+Fimalgoritmo
