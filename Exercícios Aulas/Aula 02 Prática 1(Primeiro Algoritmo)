@@ -1,0 +1,15 @@
+Algoritmo "Primeiro"
+//Primeiro Algoritmo
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 22/12/2022
+Var
+   msg: Caractere
+Inicio
+  msg <- "Olá, mundo!"
+  Escreval("=======================")
+  Escreval("   PRIMEIRO ALGORITMO  ")
+  Escreval("=======================")
+  Escreval("Mensagem: ", msg)
+  Escreval("Me Livrei da Maldição")
+Fimalgoritmo
