@@ -46,4 +46,4 @@ Nota 2: 8.5<br/>
 **_18.572Dam_**<br/>
 **_1857.2dm_**<br/>
 **_18572.0cm_**<br/>
-**_185720.0mm_** [Visualize](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2001/Exerc%C3%ADcio%2008%20-%20Dist%C3%A2ncia%20em%20Metros%20e%20seus%20correspondentes.jpeg)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2008(Dist%C3%A2ncia%20em%20metros%20e%20seus%20correspondentes).jpeg)<br/>
+**_185720.0mm_** [Visualize](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2001/Exerc%C3%ADcio%2008%20-%20Dist%C3%A2ncia%20em%20Metros%20e%20seus%20correspondentes)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2008(Dist%C3%A2ncia%20em%20metros%20e%20seus%20correspondentes).jpeg)<br/>
