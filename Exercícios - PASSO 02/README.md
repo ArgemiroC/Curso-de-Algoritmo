@@ -7,6 +7,7 @@
  **PASSO 02 - CONDIÇÕES BÁSICAS**
  
 17) Escreva um programa que pergunte a velocidade de um carro. Caso ultrapasse 80Km/h, exiba uma mensagem dizendo que o usuário foi multado. Nesse caso, exiba o valor da multa, cobrando R$5 por cada Km acima da velocidade permitida.<br/> [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2002/Exerc%C3%ADcio%2017%20-%20Multa%20por%20excesso%20de%20velocidade)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2017(Multa%20por%20excesso%20de%20velocidade).jpeg)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2017(Multa%20por%20excesso%20de%20velocidade)2.jpeg)<br/>
+18) Faça um programa que leia o ano de nascimento de uma pessoa, calcule a idade dela e depois mostre se ela pode ou não votar.<br/>[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2002/Exerc%C3%ADcio%2018%20-%20Nome%2C%20idade%2C%20pode%20ou%20n%C3%A3o%20votar)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2018(Nome%2C%20idade%2C%20pode%20ou%20n%C3%A3o%20votar)1.jpeg)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2018(Nome%2C%20idade%2C%20pode%20ou%20n%C3%A3o%20votar)2.jpeg)<br/>
 
 # :computer: Tecnologias utilizadas
 
