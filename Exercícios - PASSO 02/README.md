@@ -11,7 +11,12 @@
 19) Crie um algoritmo que leia o nome e as duas notas de um aluno, calcule a sua média e mostre na tela. No final, analise a média e mostre se o aluno teve ou não um bom aproveitamento (se ficou acima da média 7.0).<br/> [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2002/Exerc%C3%ADcio%2019%20-%20Aprovado%2C%20recupera%C3%A7%C3%A3o%20ou%20reprovado)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2019(Aprovado%2C%20recupera%C3%A7%C3%A3o%20ou%20reprovado)1.jpeg)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2019(Aprovado%2C%20recupera%C3%A7%C3%A3o%20ou%20reprovado)2.jpeg)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2019(Aprovado%2C%20recupera%C3%A7%C3%A3o%20ou%20reprovado)3.jpeg)
 20) Desenvolva um programa que leia um número inteiro e mostre se ele é PAR ou ÍMPAR.<br/> [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2002/Exerc%C3%ADcio%2020%20-%20Par%20ou%20%C3%ADmpar)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2020(Par%20ou%20%C3%ADmpar)1.jpeg)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2020(Par%20ou%20%C3%ADmpar)2.jpeg)<br/>
 21) Faça um algoritmo que leia um determinado ano e mostre se ele é ou não BISSEXTO.<br/>[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2002/Exerc%C3%ADcio%2021%20-%20Ano%20Bissexto)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2021(Ano%20Bissexto)1.jpeg)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2021(Ano%20Bissexto)2.jpeg)<br/>
-
+22) Escreva um programa que leia o ano de nascimento de um rapaz e mostre a sua situação em relação ao alistamento militar.<br/>
+- Se estiver antes dos 18 anos, mostre em quantos anos faltam para o alistamento.<br/>
+- Se já tiver depois dos 18 anos, mostre quantos anos já se passaram do alistamento.<br/>
+[Códico](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2002/Exerc%C3%ADcio%2022%20-%20Alistamento%20militar)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2022(Alistamento%20militar)1.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2022(Alistamento%20militar)2.jpeg)<br/>
 
 # :computer: Tecnologias utilizadas
 
