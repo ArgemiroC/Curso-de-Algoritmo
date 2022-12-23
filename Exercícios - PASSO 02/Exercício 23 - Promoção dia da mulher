@@ -1,0 +1,32 @@
+algoritmo "Exercicio_23"
+//Numa promoção exclusiva para o Dia da Mulher, uma loja quer dar descontos para todos, mas especialmente para mulheres. Faça um programa que leia nome, sexo e o valor das compras do cliente e calcule o preço com desconto. Sabendo que:
+//- Homens ganham 5% de desconto
+//- Mulheres ganham 13% de desconto
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 23/12/2022
+Var
+   Nome, Sexo: Caractere
+   Compras, Total: Real
+Inicio
+   Escreval ("===================================")
+   Escreval ("       PROMOÇÃO DIA DA MULHER      ")
+   Escreval ("===================================")
+   Escreva("Qual seu nome: ")
+   Leia(Nome)
+   Escreva("Qual Sexo [M/F]: ")
+   Leia(Sexo)
+   Escreva("Qual o valor das compras? R$ ")
+   Leia(Compras)
+   Se(Sexo = "M") entao
+      Total <- Compras - (Compras * 5/100)
+      Escreval ("-----------------------------------------------------------------")
+      Escreval(Nome,", você ganhou 5% de desconto, o valor a pagar é R$ ", Total:4:2)
+      Escreval ("-----------------------------------------------------------------")
+   SeNao
+      Total <- Compras - (Compras * 13/100)
+      Escreval ("------------------------------------------------------------------")
+      Escreval (Nome,", você ganhou 13% de desconto, o valor a pagar é R$ ", Total:4:2)
+      Escreval ("------------------------------------------------------------------")
+   FimSe
+Fimalgoritmo
