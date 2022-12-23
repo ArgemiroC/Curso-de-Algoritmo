@@ -1,0 +1,38 @@
+algoritmo "Exercicio_19"
+//Crie um algoritmo que leia o nome e as duas notas de um aluno, calcule a sua média e mostre na tela. No final, analise a média e mostre se o aluno teve ou não um bom aproveitamento (se ficou acima da média 7.0).
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 23/12/2022
+Var
+   Nome: Caractere
+   Nota1, Nota2, Media: Real
+Inicio
+   Escreval ("====================================")
+   Escreval (" APROVADO, RECUPERAÇÃO OU REPROVADO ")
+   Escreval ("====================================")
+   Escreva("Qual o nome do Aluno? ")
+   Leia(Nome)
+   Escreva ("Primeira Nota: ")
+   Leia (Nota1)
+   Escreva ("Segunda Nota: ")
+   Leia (Nota2)
+   Media <- (Nota1 + Nota2) / 2
+   Se (Media >= 7) entao
+      Escreval ("-------------------------------")
+      Escreval ("          MÉDIA: ", Media:4:2)
+      Escreval ("   Aluno ", Nome, ": APROVADO  ")
+      Escreval ("-------------------------------")
+   SeNao
+      Se (Media >= 5) e (Media < 7) entao
+         Escreval ("-------------------------------")
+         Escreval ("          MÉDIA: ", Media:4:2)
+         Escreval ("  Aluno ", Nome, ": RECUPERAÇÃO")
+         Escreval ("-------------------------------")
+      SeNao
+         Escreval ("-------------------------------")
+         Escreval ("          MÉDIA: ", Media:4:2)
+         Escreval ("   Aluno ", Nome, ": REPROVADO")
+         Escreval ("-------------------------------")
+      FimSe
+   FimSe
+Fimalgoritmo
