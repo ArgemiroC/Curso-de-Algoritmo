@@ -1,0 +1,31 @@
+algoritmo "Exercicio_25"
+//[DESAFIO] Crie um programa que leia o tamanho de três segmentos de reta. Analise seus comprimentos e diga se é possível formar um triângulo com essas retas. Matematicamente, para três segmentos formarem um triângulo, o comprimento de cada lado deve ser menor que a soma dos outros dois.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 23/12/2022
+var
+   Reta1, Reta2, Reta3: Real
+inicio
+   Escreval("=========================================")
+   Escreval("           FORMAR UM TRIÂNGULO           ")
+   Escreval("=========================================")
+   Escreva ("Digite o cumprimento de uma Reta: ")
+   Leia (Reta1)
+   Escreva ("Digite o cumprimento de outra Reta: ")
+   Leia (Reta2)
+   Escreva ("Digite o cumprimento de mais uma Reta: ")
+   Leia (Reta3)
+   Se(Reta1 < (Reta2 + Reta3)) entao
+      Se(Reta2 < (Reta1 + Reta3)) entao
+         Se(Reta3 < (Reta1 + Reta2)) entao
+            Escreval("---------------------------------")
+            Escreval("As três retas formam um triângulo")
+            Escreval("---------------------------------")
+         FimSe
+      SeNao
+         Escreval("-------------------------------------")
+         Escreval("As três retas não formam um triângulo")
+         Escreval("-------------------------------------")
+      FimSe
+   FimSe
+fimalgoritmo
