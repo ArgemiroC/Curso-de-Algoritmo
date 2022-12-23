@@ -44,6 +44,10 @@ sexo e o valor das compras do cliente e calcule o preço com desconto. Sabendo q
 [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2002/Exerc%C3%ADcio%2024%20-%20Pre%C3%A7o%20da%20viagem)<br/>
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2024%20(Pre%C3%A7o%20da%20viagem)1.jpeg)<br/>
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2024%20(Pre%C3%A7o%20da%20viagem)2.jpeg)<br/>
+25) Crie um programa que leia o tamanho de três segmentos de reta. Analise seus comprimentos e diga se é possível formar um triângulo com essas retas. Matematicamente, para três segmentos formarem um triângulo, o comprimento de cada lado deve ser menor que a soma dos outros dois.<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2002/Exerc%C3%ADcio%2025%20-%20Formar%20um%20Tri%C3%A2ngulo)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2025(Formar%20um%20Tri%C3%A2ngulo)1.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2025(Formar%20um%20Tri%C3%A2ngulo)2.jpeg)<br/>
 
 # :computer: Tecnologias utilizadas
 
