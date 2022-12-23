@@ -1,0 +1,33 @@
+algoritmo "Exercicio_22"
+//Escreva um programa que leia o ano de nascimento de um rapaz e mostre a sua situação em relação ao alistamento militar.
+//- Se estiver antes dos 18 anos, mostre em quantos anos faltam para o alistamento.
+//- Se já tiver depois dos 18 anos, mostre quantos anos já se passaram do alistamento.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 23/12/2022
+Var
+   Nome: Caractere
+   Ano, Atual, idade, Apto, NaoApto: Inteiro
+Inicio
+   Escreval ("===================================")
+   Escreval ("      ALISTAMENTO MILITAR     ")
+   Escreval ("===================================")
+   Escreva("Qual seu nome: ")
+   Leia(Nome)
+   Escreva("Qual ano ", Nome, ", você nasceu? ")
+   Leia(Ano)
+   Escreva("Em que ano nós estamos? ")
+   Leia(Atual)
+   Idade <- (Atual - Ano)
+   Se(Idade >= 18) entao
+      Apto <- idade - 18
+      Escreval ("-------------------------------------------------------")
+      Escreval(Nome,", você está apto ao serviço militar, há", Apto, " anos.")
+      Escreval ("-------------------------------------------------------")
+   SeNao
+      NaoApto <- 18 - Idade
+      Escreval ("--------------------------------------------------------------")
+      Escreval (Nome,", você não está apto ao serviço militar, falta", NaoApto, " anos.")
+      Escreval ("--------------------------------------------------------------")
+   FimSe
+Fimalgoritmo
