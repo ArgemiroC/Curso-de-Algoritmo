@@ -1,0 +1,23 @@
+algoritmo "Exercicio_20"
+//Desenvolva um programa que leia um número inteiro e mostre se ele é PAR ou ÍMPAR.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 23/12/2022
+Var
+   Numero: Inteiro
+Inicio
+   Escreval ("=========================")
+   Escreval ("       PAR OU ÍMPAR      ")
+   Escreval ("=========================")
+   Escreva("Digite um número: ")
+   Leia(Numero)
+   Se (Numero % 2 = 1) entao
+      Escreval ("-------------------------")
+      Escreval ("Número digitado é (ÍMPAR)")
+      Escreval ("-------------------------")
+   SeNao
+      Escreval ("-----------------------")
+      Escreval ("Número digitado é (PAR)")
+      Escreval ("-----------------------")
+   FimSe
+Fimalgoritmo
