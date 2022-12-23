@@ -1,0 +1,30 @@
+algoritmo "Exercicio_24"
+//Faça um algoritmo que pergunte a distância que um passageiro deseja percorrer em Km. Calcule o preço da passagem, cobrando R$0.50 por Km para viagens até 200Km e R$0.45 para viagens mais longas.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 23/12/2022
+Var
+   Nome: Caractere
+   km, Total: Real
+Inicio
+   Escreval ("==============================")
+   Escreval ("       PREÇO DA VIAGEM      ")
+   Escreval ("==============================")
+   Escreva("Qual seu nome: ")
+   Leia(Nome)
+   Escreval("Muito prazer ", Nome)
+   Escreval ("------------------------------")
+   Escreva("Qual a distância quer percorrer (km)? ")
+   Leia(km)
+   Se(km <= 200) entao
+      Total <- (km * 50)/100
+      Escreval ("------------------------------------------")
+      Escreval(Nome,", Sua viagem vai custar R$ ", Total:4:2)
+      Escreval ("------------------------------------------")
+   SeNao
+      Total <- (km * 45)/100
+      Escreval ("-------------------------------------------")
+      Escreval (Nome,", sua viagem vai custar R$ ", Total:4:2)
+      Escreval ("-------------------------------------------")
+   FimSe
+Fimalgoritmo
