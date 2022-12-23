@@ -1,0 +1,29 @@
+algoritmo "Exercicio_18"
+//Faça um programa que leia o ano de nascimento de uma pessoa, calcule a idade dela e depois mostre se ela pode ou não votar.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 23/12/2022
+Var
+   Nome: Caractere
+   Anos, Atual, Idade: Inteiro
+Inicio
+   Escreval("====================================================")
+   Escreval("            NOME, IDADE, PODE OU NÃO VOTAR          ")
+   Escreval("====================================================")
+   Escreva("Qual seu nome: ")
+   Leia(Nome)
+   Escreva("Seja bem vindo ", Nome, "! Em qual ano nasceu? ")
+   Leia(Anos)
+   Escreva("Em que ano estamos? ")
+   Leia(Atual)
+   Idade <- Atual - Anos
+   Escreval("----------------------------------------------------")
+   Escreval(Nome, " está com",Idade, " Anos de vida")
+   Escreval("----------------------------------------------------")
+   Se(Idade >= 16) entao
+      Escreval(Nome, " já estar apto a votar nas próximas eleições")
+   SeNao
+      Escreval(Nome, " ainda não atigiu a idade para votar")
+   FimSe
+   Escreval("----------------------------------------------------")
+Fimalgoritmo
