@@ -1,0 +1,23 @@
+algoritmo "Exercicio_21"
+//Faça um algoritmo que leia um determinado ano e mostre se ele é ou não BISSEXTO.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 23/12/2022
+Var
+   Ano: Inteiro
+Inicio
+   Escreval ("===================================")
+   Escreval ("      VER SE O ANO É BISSEXTO      ")
+   Escreval ("===================================")
+   Escreva("Digite um ano com 4 digitos: ")
+   Leia(Ano)
+   Se (Ano % 4 = 0) e (Ano % 100 <> 0) ou (Ano % 400 = 0) entao
+      Escreval ("-------------------------")
+      Escreval ("  O ano", Ano, " è Bissexto    ")
+      Escreval ("-------------------------")
+   SeNao
+      Escreval ("-----------------------------")
+      Escreval ("  O ano", Ano, " Não é Bissexto")
+      Escreval ("-----------------------------")
+   FimSe
+Fimalgoritmo
