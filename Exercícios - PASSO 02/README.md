@@ -6,7 +6,7 @@
  # :page_with_curl: Exercícios
  **PASSO 01 - CONDIÇÕES BÁSICAS**
  
-17) Escreva um programa que pergunte a velocidade de um carro. Caso ultrapasse 80Km/h, exiba uma mensagem dizendo que o usuário foi multado. Nesse caso, exiba o valor da multa, cobrando R$5 por cada Km acima da velocidade permitida.<br/> [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2002/Exerc%C3%ADcio%2017%20-%20Multa%20por%20excesso%20de%20velocidade)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2017(Multa%20por%20excesso%20de%20velocidade).jpeg)<br/>
+17) Escreva um programa que pergunte a velocidade de um carro. Caso ultrapasse 80Km/h, exiba uma mensagem dizendo que o usuário foi multado. Nesse caso, exiba o valor da multa, cobrando R$5 por cada Km acima da velocidade permitida.<br/> [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2002/Exerc%C3%ADcio%2017%20-%20Multa%20por%20excesso%20de%20velocidade)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2017(Multa%20por%20excesso%20de%20velocidade).jpeg)<br/> ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2017(Multa%20por%20excesso%20de%20velocidade)2.jpeg)<br/>
 
 # :computer: Tecnologias utilizadas
 
