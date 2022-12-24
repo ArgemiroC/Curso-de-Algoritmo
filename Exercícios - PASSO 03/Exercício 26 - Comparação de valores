@@ -1,0 +1,34 @@
+algoritmo "Exercicio_26"
+//Escreva um algoritmo que leia dois números inteiros e compare-os, mostrando na tela uma das mensagens abaixo:
+//- O primeiro valor é o maior
+//- O segundo valor é o maior
+//- Não existe valor maior, os dois são iguais
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 23/12/2022
+var
+   Numero1, Numero2, Maior, Menor, Igaul: Inteiro
+inicio
+   Escreval ("=================================")
+   Escreval ("      COMPORAÇÃO DE VALORES      ")
+   Escreval ("=================================")
+   Escreva("Digite um número: ")
+   Leia(Numero1)
+   Escreva("Digite outro número: ")
+   Leia(Numero2)
+   Se(Numero1 > Numero2) entao
+      Escreval("---------------------------")
+      Escreval("O primeiro valor é o maior")
+      Escreval("---------------------------")
+   FimSe
+   Se(Numero1 < Numero2) entao
+      Escreval("--------------------------")
+      Escreval("O segundo valor é o maior")
+      Escreval("--------------------------")
+   FimSe
+   Se(Numero1 = Numero2) entao
+      Escreval("-------------------------------------------")
+      Escreval("Não existe valor maior, os dois são iguais")
+      Escreval("-------------------------------------------")
+   FimSe
+fimalgoritmo
