@@ -1,0 +1,39 @@
+algoritmo "Exercício_28"
+//Faça um programa que leia a largura e o comprimento de um terreno retangular, calculando e mostrando a sua área em m². O programa também devemostrar a classificação desse terreno, de acordo com a lista abaixo:
+//- Abaixo de 100m² = TERRENO POPULAR
+//- Entre 100m² e 500m² = TERRENO MASTER
+//- Acima de 500m² = TERRENO VIP
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 27/12/2022
+var
+   Comprimento, Largura, Tamanho:Real
+   Nome: Caractere
+inicio
+   Escreval("==========================================")
+   Escreval("         CLASSIFICAÇÃO DO TERRENO        ")
+   Escreval("==========================================")
+   Escreva("Quem é o proprietário do terreno? ")
+   Leia(Nome)
+   Escreva("Qual o comprimento do terreno? ")
+   Leia(comprimento)
+   Escreva("Qual a largura do terreno? ")
+   Leia(Largura)
+   Tamanho <- (Comprimento * Largura)
+   Escreval("------------------------------------------")
+   Se(Tamanho <= 100) entao
+      Escreval("O seu terreno, ", Nome, ", tem ",Tamanho,"m²")
+      Escreval("E se classifica como Terreno Popular")
+   SeNao
+      Se(Tamanho >= 101) e (Tamanho <= 500) entao
+         Escreval("O seu terreno, ", Nome, ", tem",Tamanho,"m²")
+         Escreval("E se classifica como Terreno Master")
+      SeNao
+         Se(Tamanho >= 501) entao
+            Escreval("O seu terreno, ", Nome, ", tem ",Tamanho,"m²")
+            Escreval("E se classifica como Terreno Vip")
+         FimSe
+      FimSe
+   FimSe
+   Escreval ("------------------------------------------")
+fimalgoritmo
