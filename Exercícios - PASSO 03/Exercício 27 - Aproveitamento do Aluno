@@ -1,0 +1,64 @@
+algoritmo "Exercício_27"
+//Crie um programa que leia duas notas de um aluno e calcule a sua média, mostrando uma mensagem no final, de acordo com a média atingida:
+//- Média até 4.9: REPROVADO
+//- Média entre 5.0 e 6.9: RECUPERAÇÃO
+//- Média 7.0 ou superior: APROVADO
+//Acresentei mais coisas ao exercício
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 26/12/2022
+var
+   Nota1,Nota2,Nota3,Media:Real
+   Nome: Caractere
+inicio
+   Escreval("===============================")
+   Escreval("    APROVEITAMENTO DO ALUNO    ")
+   Escreval("===============================")
+   Escreva("Qual o nome do aluno? ")
+   Leia(Nome)
+   Escreva("Primeira Nota: ")
+   Leia(Nota1)
+   Escreva("Segunda Nota: ")
+   Leia(Nota2)
+   Escreva("Terceira Nota: ")
+   Leia(Nota3)
+   Media <- (Nota1 + Nota2 + Nota3) / 3
+   Escreval("--------------STATUS--------------")
+   Escreval("MÉDIA: ", Media:4:2)
+   SE(Media >= 9) entao
+      Escreval("Aproveitamento: (A)")
+      Escreval("Parabéns ", Nome, ", continue assim!")
+      Escreval("APROVADO")
+   SeNao
+      Se(Media >= 8) e (Media <= 8.9) entao
+         Escreval("Aproveitamento: (B)")
+         Escreval("Parabéns ", Nome, "!")
+         Escreval("APROVADO")
+      SeNao
+         Se(Media >= 7) e (Media <= 7.9) entao
+            Escreval("Aproveitamento: (C)")
+            Escreval("Parabéns ", Nome, ", mais pode melhorar!")
+            Escreval("APROVADO")
+         Senao
+            Se(Media >= 6) e (Media <= 6.9)entao
+               Escreval("Aproveitamento: (D)")
+               Escreval("Cuidado ", Nome, ", precisa melhorar!")
+               Escreval("RECUPERAÇÃO")
+            SeNao
+               Se(Media >= 5) e (Media <= 5.9) entao
+                  Escreval("Aproveitamento: (E)")
+                  Escreval("Perigo ", Nome,", tem que estudar mais!")
+                  Escreval("RECUPERAÇÃO")
+               SeNao
+                  Se(Media <= 4.9) entao
+                     Escreval("Aproveitamento: (F)")
+                     Escreval("Estar muito ruim, ", Nome,"!")
+                     Escreval("REPROVADO")
+                  FimSe
+               FimSe
+            FimSe
+         FimSe
+      FimSe
+   FimSe
+   Escreval ("----------------------------------")
+fimalgoritmo
