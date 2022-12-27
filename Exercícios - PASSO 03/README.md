@@ -27,6 +27,15 @@
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2027(Aproveitamento%20do%20Aluno)5.jpeg)<br/>
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2027(Aproveitamento%20do%20Aluno)6.jpeg)<br/>
 
+28) Faça um programa que leia a largura e o comprimento de um terreno retangular, calculando e mostrando a sua área em m². O programa também devemostrar a classificação desse terreno, de acordo com a lista abaixo:<br/>
+- Abaixo de 100m² = TERRENO POPULAR<br/>
+- Entre 100m² e 500m² = TERRENO MASTER<br/>
+- Acima de 500m² = TERRENO VIP<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2003/Exerc%C3%ADcio%2028%20-%20Classifica%C3%A7%C3%A3o%20do%20Terreno)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2028(Classifica%C3%A7%C3%A3o%20do%20Terreno)1.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2028(Classifica%C3%A7%C3%A3o%20do%20Terreno)2.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2028(Classifica%C3%A7%C3%A3o%20do%20Terreno)3.jpeg)<br/>
+
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
