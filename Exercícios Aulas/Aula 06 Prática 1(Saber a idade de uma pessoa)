@@ -1,0 +1,22 @@
+algoritmo "Aula_06"
+//Saber a idade de uma pessoa
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 27/12/2022
+var
+  Ano, Nascimento, Idade: Inteiro
+  Nome: Caractere
+inicio
+  Escreval("================================================")
+  Escreval("           SABER A IDADE DE UMA PESSOA          ")
+  Escreval("================================================")
+  Escreva("Qual o nome da pessoa: ")
+  Leia(Nome)
+  Escreva("Em que ano ", Nome," nasceu? Com 4 digitos: ")
+  Leia (Nascimento)
+  Escreva("Em que ano estamos? Com 4 digitos: ")
+  Leia (Ano)
+  Escreval("------------------------------------------------")
+  Idade <- Ano - Nascimento
+  Escreval (Nome, ", nasceu em", Nascimento," e tem",Idade, " anos de idade")
+fimalgoritmo
