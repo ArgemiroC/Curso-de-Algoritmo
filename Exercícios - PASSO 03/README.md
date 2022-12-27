@@ -36,6 +36,15 @@
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2028(Classifica%C3%A7%C3%A3o%20do%20Terreno)2.jpeg)<br/>
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2028(Classifica%C3%A7%C3%A3o%20do%20Terreno)3.jpeg)<br/>
 
+29) Desenvolva um programa que leia o nome de um funcionário, seu salário, quantos anos ele trabalha na empresa e mostre seu novo salário, reajustado de acordo com a tabela a seguir:<br/>
+- Até 3 anos de empresa: aumento de 3%<br/>
+- entre 3 e 10 anos: aumento de 12.5%<br/>
+- 10 anos ou mais: aumento de 20%<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2003/Exerc%C3%ADcio%2029%20-%20Aumento%20de%20Sal%C3%A1rio)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2029(Aumento%20de%20Sal%C3%A1rio)1.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2029(Aumento%20de%20Sal%C3%A1rio)2.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2029(Aumento%20de%20Sal%C3%A1rio)3.jpeg)<br/>
+
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
