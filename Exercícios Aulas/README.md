@@ -36,10 +36,15 @@
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2004%20Pr%C3%A1tica%201(Tri%C3%A2ngulo)3.jpeg)<br/>
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2004%20Pr%C3%A1tica%201(Tri%C3%A2ngulo)4.jpeg)<br/>
  
-  **AULA 06**
+ **AULA 06**
  **Prática 1** - Saber a idade de uma pessoa<br/>
  [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2006%20Pr%C3%A1tica%201(Saber%20a%20idade%20de%20uma%20pessoa))<br/>
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2006%20Pr%C3%A1tica%201(Saber%20a%20Idade%20de%20uma%20pessoa).jpeg)<br/>
+ 
+ **AULA 06**
+ **Prática 2** - Comprar Dolares<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2006%20Pr%C3%A1tica%202(Comprar%20Dolares))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2006%20Pr%C3%A1tica%202(Comprar%20Dolares).jpeg)<br/>
  
 # :computer: Tecnologias utilizadas
 
