@@ -1,0 +1,45 @@
+algoritmo "Exercício_29"
+//Desenvolva um programa que leia o nome de um funcionário, seu salário, quantos anos ele trabalha na empresa e mostre seu novo salário, reajustado de acordo com a tabela a seguir:
+//- Até 3 anos de empresa: aumento de 3%
+//- entre 3 e 10 anos: aumento de 12.5%
+//- 10 anos ou mais: aumento de 20%
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 27/12/2022
+var
+   Anos: Inteiro
+   Salario, Aumento, Valor: Real
+   Nome: Caractere
+inicio
+   Escreval("================================================")
+   Escreval("                AUMENTO DE SALÁRIO              ")
+   Escreval("================================================")
+   Escreva("Quem é o nome do funcionário? ")
+   Leia(Nome)
+   Escreva("Quantos anos está na empresa? ")
+   Leia(Anos)
+   Escreva("Qual o salário atual? R$ ")
+   Leia(Salario)
+   Escreval("------------------------------------------------")
+   Se(Anos <= 3) entao
+      Aumento <- Salario + (Salario * 3/100)
+      Valor <- (Salario * 3/100)
+      Escreval(Nome, " o seu reajuste será de 3%, R$ ", Valor:4:2)
+      Escreval("Seu novo salário será, R$ ", Aumento:4:2)
+   SeNao
+      Se(Anos > 3) e ( Anos <= 10) entao
+         Aumento <- Salario + (Salario * 12.5/100)
+         Valor <- (Salario * 12.5/100)
+         Escreval(Nome, " o seu reajuste será de 12.5%, R$ ", Valor:4:2)
+         Escreval("Seu novo salário será, R$ ", Aumento:4:2)
+      SeNao
+         Se(Anos > 10) entao
+            Aumento <- Salario + (Salario * 20/100)
+            Valor <- (Salario * 20/100)
+            Escreval(Nome, " o seu reajuste será de 20%, R$ ", Valor:4:2)
+            Escreval("Seu novo salário será, R$ ", Aumento:4:2)
+         FimSe
+      FimSe
+   FimSe
+   Escreval ("------------------------------------------------")
+fimalgoritmo
