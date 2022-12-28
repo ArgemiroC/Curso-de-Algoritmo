@@ -45,6 +45,15 @@
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2029(Aumento%20de%20Sal%C3%A1rio)2.jpeg)<br/>
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2029(Aumento%20de%20Sal%C3%A1rio)3.jpeg)<br/>
 
+30) [DESAFIO] Refaça o algoritmo 25, acrescentando o recurso de mostrar que tipo de triângulo será formado:<br/>
+- EQUILÁTERO: todos os lados iguais<br/>
+- ISÓSCELES: dois lados iguais<br/>
+- ESCALENO: todos os lados diferentes<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2003/Exerc%C3%ADcio%2030%20-%20Tipo%20de%20Tri%C3%A2ngulo)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2030(Tipo%20de%20tri%C3%A2ngulo)1.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2030(Tipo%20de%20tri%C3%A2ngulo)2.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2030(Tipo%20de%20tri%C3%A2ngulo)3.jpeg)<br/>
+
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
