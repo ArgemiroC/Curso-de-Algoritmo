@@ -1,0 +1,42 @@
+algoritmo "Exercicio_30"
+//[DESAFIO] Refaça o algoritmo 25, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+-//EQUILÁTERO: todos os lados iguais
+-//ISÓSCELES: dois lados iguais
+-//ESCALENO: todos os lados diferentes
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 23/12/2022
+var
+   Reta1, Reta2, Reta3: Real
+   Triangulo, Equilatero, Escaleno, Isosceles: Logico
+inicio
+   Escreval("===========================================")
+   Escreval("             TIPOS DE TRIÂNGULO            ")
+   Escreval("===========================================")
+   Escreva ("Digite o cumprimento de uma Reta: ")
+   Leia (Reta1)
+   Escreva ("Digite o cumprimento de outra Reta: ")
+   Leia (Reta2)
+   Escreva ("Digite o cumprimento de mais uma Reta: ")
+   Leia (Reta3)
+   Triangulo <- (Reta1 < Reta2 + Reta3) e (Reta2 < Reta1 + Reta3) e (Reta3 < Reta1 + Reta2)
+   Equilatero <- (Reta1 = Reta2) e (Reta2 = Reta3)
+   Escaleno <- (Reta1 <> Reta2) e (Reta2 <> Reta3) e (Reta1 <>Reta3)
+   Se(Triangulo = VERDADEIRO) entao
+      Se(Triangulo = Equilatero) entao
+         Escreval("-------------------------------------------")
+         Escreval("Forma um triângulo Equilatero.")
+         Escreval("-------------------------------------------")
+      SeNao
+         Se(Triangulo = Escaleno) entao
+            Escreval("-------------------------------------------")
+            Escreval("Forma um triângulo Escaleno.")
+            Escreval("-------------------------------------------")
+         FimSe
+      FimSe
+   SeNao
+      Escreval("-------------------------------------------")
+      Escreval("Não forma triângulo")
+      Escreval("-------------------------------------------")
+   FimSe
+fimalgoritmo
