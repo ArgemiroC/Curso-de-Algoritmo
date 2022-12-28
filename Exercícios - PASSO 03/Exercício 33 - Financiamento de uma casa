@@ -1,0 +1,48 @@
+algoritmo "Exercicio_33"
+//Escreva um programa para aprovar ou não o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 28/12/2022
+Var
+   Casa, Salario, Anual, Juros, Valor_Mensal, Limite, Total: Real
+   Parcelas, Anos: Inteiro
+   Nome: Caractere
+Inicio
+   Escreval("=============================================")
+   Escreval("          FINANCIAMENTO DE UMA CASA          ")
+   Escreval("=============================================")
+   Escreva("Nome do interessado do financimanto? ")
+   Leia(Nome)
+   Escreval("---------------------------------------------")
+   Escreva("Qual o valor da casa? R$ ")
+   Leia(Casa)
+   Escreval("---------------------------------------------")
+   Escreva(Nome," qual o seu salário? R$ ")
+   Leia(Salario)
+   Escreval("---------------------------------------------")
+   Escreva(Nome," em quantas anos que financiar? ")
+   Leia(Anos)
+   Escreval("---------------------------------------------")
+   Escreva("Qual o valor dos juros anual? [%] ")
+   Leia(Anual)
+   Escreval("=============================================")
+   Escreval("|||||||||||||||||||||||||||||||||||||||||||||")
+   Escreval("|||||||||||||||||||||||||||||||||||||||||||||")
+   Escreval("=============================================")
+   Parcelas <- Anos * 12
+   Juros <- Anual / 100
+   Total<- Casa * (1 + Juros)^Anos
+   Valor_Mensal <- Total / Parcelas
+   Limite <- Salario - (Salario * 70/100)
+   Se(Valor_Mensal <= Limite) entao
+      Escreval("Parabéns, Financiamento Liberado")
+      Escreval("---------------------------------------------")
+      Escreval("Serão", Parcelas," parcela de R$ ",Valor_Mensal:6:2)
+      Escreval("---------------------------------------------")
+      Escreval("Valor total do financiamento R$ ", Total:6:2)
+      Escreval("=============================================")
+   SeNao
+      Escreval("Financiamento Negado")
+      Escreval("=============================================")
+   FimSe
+Fimalgoritmo
