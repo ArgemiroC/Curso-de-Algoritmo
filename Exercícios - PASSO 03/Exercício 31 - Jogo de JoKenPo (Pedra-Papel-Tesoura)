@@ -1,0 +1,42 @@
+algoritmo "Exercicio_31"
+//[DESAFIO] Crie um jogo de JoKenPo (Pedra-Papel-Tesoura)
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 28/12/2022
+var
+   Opcao, Computador: Inteiro
+inicio
+   Escreval("===================================")
+   Escreval("JOGO DE JOKENPO(PEDRA-PAPEL-TESOURA")
+   Escreval("===================================")
+   Escreval("---------------OPÇÕES--------------")
+   Escreval("-> 0 (PEDRA)")
+   Escreval("-> 1 (PAPEL)")
+   Escreval("-> 2 (TESOURA)")
+   Escreval("-----------------------------------")
+   Escreva("Escolha uma opção acima: ")
+   Leia(Opcao)
+   Se(Opcao >= 0) e (Opcao <= 2)entao
+      Computador <- Randi(3)
+      Se(Computador = 0)entao
+         Escreval("Computador escolheu (PEDRA)")
+      SeNao
+         Se(Computador = 1) entao
+            Escreval("Computador escolheu (PAPEL)")
+         SeNao
+            Escreval("Computador escolheu (TESOURA)")
+         FimSe
+      FimSe
+      Se(Opcao = Computador) entao
+         Escreval("Jogo Empatado")
+      SeNao
+         Se((Opcao = 0) e (Computador = 2)) ou ((Opcao = 1) e (Computador = 0)) ou ((Opcao = 2) e (Computador = 1)) entao
+            Escreval("Parabéns, você ganhou")
+         SeNao
+            Escreval("Computador ganhou")
+         FimSe
+      FimSe
+   SeNao
+      Escreval("Opção Inválida")
+   FimSe
+fimalgoritmo
