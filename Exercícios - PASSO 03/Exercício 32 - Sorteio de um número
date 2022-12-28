@@ -1,0 +1,34 @@
+algoritmo "Exercicio_32"
+//[DESAFIO] Crie um jogo onde o computador vai sortear um número entre 0 e 5 o jogador vai tentar descobrir qual foi o valor sorteado.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 28/12/2022
+Var
+   Computador, Numero: Inteiro
+   Resposta: Caractere
+Inicio
+   Escreval("===================================")
+   Escreval("        SORTEIO DE UM NÚMERO       ")
+   Escreval("===================================")
+   Repita
+   Computador <- Randi(5)
+   Escreva("Escolha um número 0 a 5: ")
+   Leia(Numero)
+   Escreval("-----------------------------------")
+   Escreval("Número sorteado foi:", Computador)
+   Escreval("-----------------------------------")
+   Se(Numero = Computador) entao
+     Escreval("Você acertou")
+     Escreval("-----------------------------------")
+   SeNao
+     Escreval("Você errou")
+     Escreval("-----------------------------------")
+   FimSe
+   Escreva("Quer jogar novamente? [Y/N] ")
+   Leia(Resposta)
+   Escreval("-----------------------------------")
+   Até (Resposta = "N")
+   Escreval("===================================")
+   Escreval("           FIM DO SORTEIO          ")
+   Escreval("===================================")
+Fimalgoritmo
