@@ -54,6 +54,17 @@
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2030(Tipo%20de%20tri%C3%A2ngulo)2.jpeg)<br/>
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2030(Tipo%20de%20tri%C3%A2ngulo)3.jpeg)<br/>
 
+31) [DESAFIO] Crie um jogo de JoKenPo (Pedra-Papel-Tesoura)<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2003/Exerc%C3%ADcio%2031%20-%20Jogo%20de%20JoKenPo%20(Pedra-Papel-Tesoura))<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2031(jogo%20de%20JoKenPo%20-%20Pedra-Papel-Tesoura)1.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2031(jogo%20de%20JoKenPo%20-%20Pedra-Papel-Tesoura)2.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2031(jogo%20de%20JoKenPo%20-%20Pedra-Papel-Tesoura)3.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2031(jogo%20de%20JoKenPo%20-%20Pedra-Papel-Tesoura)4.jpeg)<br/>
+
+32) [DESAFIO] Crie um jogo onde o computador vai sortear um número entre 1 e 5 o jogador vai tentar descobrir qual foi o valor sorteado.<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2003/Exerc%C3%ADcio%2032%20-%20Sorteio%20de%20um%20n%C3%BAmero)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2032(Sorteio%20de%20um%20n%C3%BAmero).jpeg)<br/>
+
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
