@@ -51,6 +51,11 @@
  [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2006%20Pr%C3%A1tica%203(Converter%20Fahrenheit%20para%20Celsius))<br/>
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2006%20Pr%C3%A1tica%203(Converter%20Fahrenheit%20para%20Celsius).jpeg)<br/>
  
+ **AULA 06**
+ **Prática 4** - Imposto de Importação<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2006%20Pr%C3%A1tica%204(Imposto%20de%20Importa%C3%A7%C3%A3o))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2006%20Pr%C3%A1tica%204(Imposto%20de%20Importa%C3%A7%C3%A3o).jpeg)<br/>
+ 
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
