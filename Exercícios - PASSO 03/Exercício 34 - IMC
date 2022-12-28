@@ -1,0 +1,50 @@
+algoritmo "Exercicio_34"
+//O Índice de Massa Corpórea (IMC) é um valor calculado baseado na altura e no peso de uma pessoa. De acordo com o valor do IMC, podemos classificar o indivíduo dentro de certas faixas.
+//- abaixo de 18.5: Abaixo do peso
+//- entre 18.5 e 25: Peso ideal
+//- entre 25 e 30: Sobrepeso
+//- entre 30 e 40: Obesidade
+//- acima de 40: Obseidade mórbida
+//Obs: O IMC é calculado pela expressão peso/altura² (peso dividido pelo quadrado da altura)
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 28/12/2022
+Var
+   Peso, Altura, IMC: Real
+   Nome: Caractere
+Inicio
+   Escreval("===========================================")
+   Escreval("            MASSA CORPÓREA (IMC)           ")
+   Escreval("===========================================")
+   Escreva("Qual o nome do paciente? ")
+   Leia(Nome)
+   Escreval("-------------------------------------------")
+   Escreva(Nome," qual seu peso em Kg? ")
+   Leia(Peso)
+   Escreval("-------------------------------------------")
+   Escreva(Nome," qual sua altura? ")
+   Leia(Altura)
+   Escreval("===========================================")
+   IMC <- Peso / (Altura ^ 2)
+   Escreva(Nome, " Seu IMC é ", IMC:4:2, ":")
+   Se(IMC < 18.5) entao
+      Escreval(" Abaixo do Peso")
+   SeNao
+      se(IMC >= 18.5) e (IMC < 25) entao
+         Escreval(" Peso Ideal")
+      SeNao
+         Se(IMC >= 25) e (IMC < 30) entao
+            Escreval(" Sobrepeso")
+         SeNao
+            Se(IMC >= 30) e (IMC < 40) entao
+               Escreval(" Obesidade")
+            SeNao
+               Se(IMC >= 40) entao
+                  Escreval(" Obesidade Mórbida")
+               FimSe
+            FimSe
+         FimSe
+      FimSe
+   FimSe
+   Escreval("===========================================")
+Fimalgoritmo
