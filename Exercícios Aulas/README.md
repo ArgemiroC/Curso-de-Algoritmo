@@ -46,6 +46,11 @@
  [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2006%20Pr%C3%A1tica%202(Comprar%20Dolares))<br/>
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2006%20Pr%C3%A1tica%202(Comprar%20Dolares).jpeg)<br/>
  
+ **AULA 06**
+ **Prática 2** - Converter Fahrenheit para Celsius<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2006%20Pr%C3%A1tica%203(Converter%20Fahrenheit%20para%20Celsius))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2006%20Pr%C3%A1tica%203(Converter%20Fahrenheit%20para%20Celsius).jpeg)<br/>
+ 
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
