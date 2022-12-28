@@ -56,6 +56,11 @@
  [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2006%20Pr%C3%A1tica%204(Imposto%20de%20Importa%C3%A7%C3%A3o))<br/>
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2006%20Pr%C3%A1tica%204(Imposto%20de%20Importa%C3%A7%C3%A3o).jpeg)<br/>
  
+  **AULA 06**
+ **Prática 5** - Empréstimo e Parcelamento<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2006%20Pr%C3%A1tica%205(Empr%C3%A9stimo%20e%20Parcelamento))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2006%20Pr%C3%A1tica%205(Empr%C3%A9stimo%20e%20Parcelamento).jpeg)<br/>
+ 
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
