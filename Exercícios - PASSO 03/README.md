@@ -70,6 +70,20 @@
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2033(Financiamento%20de%20uma%20casa)1.jpeg)<br/>
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2033(Financiamento%20de%20uma%20casa)2.jpeg)<br/>
 
+34) O Índice de Massa Corpórea (IMC) é um valor calculado baseado na altura e no peso de uma pessoa. De acordo com o valor do IMC, podemos classificar o indivíduo dentro de certas faixas.<br/>
+- abaixo de 18.5: Abaixo do peso<br/>
+- entre 18.5 e 25: Peso ideal<br/>
+- entre 25 e 30: Sobrepeso<br/>
+- entre 30 e 40: Obesidade<br/>
+- acima de 40: Obseidade mórbida<br/>
+Obs: O IMC é calculado pela expressão peso/altura² (peso dividido pelo quadrado da altura)<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2003/Exerc%C3%ADcio%2034%20-%20IMC)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2034(IMC)1.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2034(IMC)2.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2034(IMC)3.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2034(IMC)4.jpeg)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2034(IMC)5.jpeg)<br/>
+
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
