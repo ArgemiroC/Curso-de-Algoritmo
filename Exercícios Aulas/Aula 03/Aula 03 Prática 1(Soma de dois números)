@@ -1,0 +1,24 @@
+Algoritmo "Aula_03"
+//Prática 1: Soma de 2 Númeoros
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 22/12/2022
+Var
+   N1, N2, S: Inteiro
+   M: Real
+Inicio
+  Escreval("===============================")
+  Escreval("       SOMA DE DOIS NÚMEROS    ")
+  Escreval("===============================")
+  Escreva("Informe um número: ")
+  Leia(N1)
+  Escreval("-------------------------------")
+  Escreva("Informe outro número: ")
+  Leia(N2)
+  Escreval("-------------------------------")
+  S <- N1 + N2
+  M <- (N1 + N2)/2
+  Escreval("A soma entre", N1, " e", N2, " é igual a", S)
+  Escreval("-------------------------------")
+  Escreval("A média entre", N1, " e", N2, " é igual a", M)
+Fimalgoritmo
