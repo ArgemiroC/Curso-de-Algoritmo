@@ -1,0 +1,17 @@
+Algoritmo "Aula_03"
+//Prática 2: Conversor
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 22/12/2022
+Var
+   Angulo, S: Real
+Inicio
+  Escreval("======================")
+  Escreval("       Conversor      ")
+  Escreval("======================")
+  Escreva("Informe um angulo: ")
+  Leia(Angulo)
+  S <- Sen(GraupRad(Angulo))
+  Escreval("----------------------")
+  Escreva("O Seno de ", Angulo, " é igual a ", S:4:2)
+Fimalgoritmo
