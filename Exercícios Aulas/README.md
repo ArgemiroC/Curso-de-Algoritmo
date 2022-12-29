@@ -85,6 +85,13 @@
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Exerc%C3%ADcio%201(Apto%20a%20Dirigir)1.jpeg)<br/>
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Exerc%C3%ADcio%201(Apto%20a%20Dirigir)2.jpeg)<br/>
  
+ **AULA 07**
+ **Exercício 2** - Aluno aprovado ou reprovado<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2007%20Exerc%C3%ADcio%202(Aluno%20aprovado%20ou%20reprovado))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Exerc%C3%ADcio%202(Aluno%20Reprovado%20ou%20Reprovado)1.jpeg)<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Exerc%C3%ADcio%202(Aluno%20Reprovado%20ou%20Reprovado)2.jpeg)<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Exerc%C3%ADcio%202(Aluno%20Reprovado%20ou%20Reprovado)3.jpeg)<br/>
+ 
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
