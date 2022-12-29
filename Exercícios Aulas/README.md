@@ -67,6 +67,7 @@
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Pr%C3%A1tica%201(Saber%20se%20atingiu%20a%20maioridade)1.jpeg)<br/>
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Pr%C3%A1tica%201(Saber%20se%20atingiu%20a%20maioridade)2.jpeg)<br/>
  
+ 
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
