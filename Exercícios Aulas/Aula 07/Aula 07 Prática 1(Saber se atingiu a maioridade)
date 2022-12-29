@@ -1,0 +1,31 @@
+Algoritmo "Aula_07"
+//Condicionais: Calculo da idade, responder se já atingiu a maioridade
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 28/12/2022
+var
+  Ano, Nascimento, Idade, Maioridade, Falta: Inteiro
+  Nome: Caractere
+inicio
+  Escreval("================================================")
+  Escreval("         SABER SE ATINGIU A MAIORIDADE          ")
+  Escreval("================================================")
+  Escreva("Qual seu nome? ")
+  Leia(Nome)
+  Escreva("Em que ano ", Nome," você nasceu? ")
+  Leia (Nascimento)
+  Escreva("Em que ano estamos? ")
+  Leia (Ano)
+  Escreval("------------------------------------------------")
+  Idade <- Ano - Nascimento
+  Maioridade <- Nascimento + 21
+  Falta <- 21 - Idade
+  Escreval (Nome, ", nasceu em", Nascimento," e tem",Idade, " anos de idade")
+  Se(Idade >= 21) entao
+     Escreval("e já atigiu a maioridade deste", Maioridade)
+     Escreval("------------------------------------------------")
+  SeNao
+     Escreval("e ainda não atingiu a maioridade, falta", Falta, " anos")
+     Escreval("------------------------------------------------")
+  FimSe
+fimalgoritmo
