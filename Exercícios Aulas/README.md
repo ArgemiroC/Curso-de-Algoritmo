@@ -73,6 +73,12 @@
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Pr%C3%A1tica%202(Par%20ou%20%C3%8Dmpar)1.jpeg)<br/>
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Pr%C3%A1tica%202(Par%20ou%20%C3%8Dmpar)2.jpeg)<br/>
  
+ **AULA 07**
+ **Prática 3** - Cauculando o IMC<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2007%20Pr%C3%A1tica%203(Calculando%20o%20IMC))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Pr%C3%A1tica%203(Calculando%20o%20IMC)1.jpeg)<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Pr%C3%A1tica%203(Calculando%20o%20IMC)2.jpeg)<br/>
+ 
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
