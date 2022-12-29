@@ -1,0 +1,20 @@
+algoritmo "Aula_06"
+//Converter Reais para Dolares
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 27/12/2022
+var
+  Reais, Dolares: Real
+  Nome: Caractere
+inicio
+  Escreval("======================================================")
+  Escreval("                     COMPRAR DOLARES                  ")
+  Escreval("======================================================")
+  Escreva("Quem quer comprar dolares: ")
+  Leia(Nome)
+  Escreva("Quantos reais, ", Nome, " que trocrar em dolares: R$ ")
+  Leia (Reais)
+  Dolares <- Reais/5.29
+  Escreval("------------------------------------------------------")
+  Escreval (Nome, ", trocou R$",Reais," reais em US$ ",Dolares:4:2," dolares")
+fimalgoritmo
