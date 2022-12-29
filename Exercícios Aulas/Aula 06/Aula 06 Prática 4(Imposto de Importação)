@@ -1,0 +1,22 @@
+algoritmo "Aula_06"
+//Imposto de importação
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 27/12/2022
+var
+  Preco, Imposto, Valor: Real
+  Nome: Caractere
+inicio
+  Escreval("================================================")
+  Escreval("              IMPOSTO DE IMPORTAÇÃO             ")
+  Escreval("================================================")
+  Escreva("De quem é o produto? ")
+  Leia(Nome)
+  Escreva("Qual o preço do produto? US$ ")
+  Leia(Preco)
+  Imposto <- (Preco * 60) / 100
+  Valor <- (Preco + Imposto) * 5,29
+  Escreval("------------------------------------------------")
+  Escreval(Nome, ", o imposto é de 60%, US$ ", Imposto:4:2)
+  Escreval("assim o valor final ja convertido será R$ ",Valor:4:2)
+fimalgoritmo
