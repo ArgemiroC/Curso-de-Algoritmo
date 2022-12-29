@@ -1,0 +1,35 @@
+Algoritmo "Aula_07"
+//Condicionais: Apto a dirigir
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 28/12/2022
+Var
+   Ano, Nascimento, Idade: Real
+   Nome: Caractere
+Inicio
+      Escreval ("=============================================")
+      Escreval ("           DEPARTAMENTO DE TRÂNSITO          ")
+      Escreval ("=============================================")
+      Escreva("Qual seu nome? ")
+      Leia(Nome)
+      Escreval ("---------------------------------------------")
+      Escreva (Nome, " qual ano de Nascimento? (yyyy): ")
+      Leia (Nascimento)
+      Escreval ("---------------------------------------------")
+      Escreva ("Qual ano Atual? (yyyy): ")
+      Leia (ano)
+      idade<- Ano - Nascimento
+      Se (Idade >= 18) então
+         Escreval ("===================STATUS====================")
+         Escreval ("Idade de ", Nome, " é", Idade, " anos.")
+         Escreval ("---------------------------------------------")
+         Escreval ("ESTÁ APTO A TIRAR A CARDEIRA")
+         Escreval ("---------------------------------------------")
+      SeNao
+         Escreval ("===================STATUS====================")
+         Escreval ("Idade de ", Nome, " é", Idade, " anos.")
+         Escreval ("---------------------------------------------")
+         Escreval ("ESTAR INAPTO A TIRAR A CARTEIRA")
+         Escreval ("---------------------------------------------")
+      FimSe
+Fimalgoritmo
