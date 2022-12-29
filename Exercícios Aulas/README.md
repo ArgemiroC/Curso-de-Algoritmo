@@ -67,6 +67,12 @@
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Pr%C3%A1tica%201(Saber%20se%20atingiu%20a%20maioridade)1.jpeg)<br/>
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Pr%C3%A1tica%201(Saber%20se%20atingiu%20a%20maioridade)2.jpeg)<br/>
  
+ **AULA 07**
+ **Prática 2** - Par ou Ímpar<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2007%20Pr%C3%A1tica%202(Par%20ou%20%C3%8Dmpar))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Pr%C3%A1tica%202(Par%20ou%20%C3%8Dmpar)1.jpeg)<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Pr%C3%A1tica%202(Par%20ou%20%C3%8Dmpar)2.jpeg)<br/>
+ 
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
