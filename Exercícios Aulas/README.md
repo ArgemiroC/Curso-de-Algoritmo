@@ -79,6 +79,12 @@
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Pr%C3%A1tica%203(Calculando%20o%20IMC)1.jpeg)<br/>
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Pr%C3%A1tica%203(Calculando%20o%20IMC)2.jpeg)<br/>
  
+ **AULA 07**
+ **Exercício 1** - Apto a Dirigir<br/> 
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2007%20Exerc%C3%ADcio%201(Apto%20a%20Dirigir))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Exerc%C3%ADcio%201(Apto%20a%20Dirigir)1.jpeg)<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2007%20Exerc%C3%ADcio%201(Apto%20a%20Dirigir)2.jpeg)<br/>
+ 
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
