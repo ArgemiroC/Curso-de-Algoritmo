@@ -1,0 +1,41 @@
+Algoritmo "Aula_07"
+//Condicionais: Aluno Aprovado ou Reprovado
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 29/12/2022
+Var
+   Nota1,Nota2,Media: Real
+   Nome: Caractere
+Inicio
+      Escreval("====================================")
+      Escreval("        ESCOLA JAVALI CANSADO       ")
+      Escreval("====================================")
+      Escreva("Qual o nome do aluno? ")
+      Leia(Nome)
+      Escreval ("------------------------------------")
+      Escreva ("Primeira Nota: ")
+      Leia (Nota1)
+      Escreval ("------------------------------------")
+      Escreva ("Segunda Nota: ")
+      Leia (Nota2)
+      Escreval ("------------------------------------")
+      Media <- (Nota1 + Nota2) / 2
+      Se (Media >= 7) entao
+         Escreval ("====================================")
+         Escreval ("MÉDIA: ", Media:4:2)
+         Escreval ("Aluno ", Nome, ": FOI APROVADO")
+         Escreval ("====================================")
+      SeNao
+           Se (Media >= 5) e (Media < 7) entao
+              Escreval ("====================================")
+              Escreval ("MÉDIA: ", Media:4:2)
+              Escreval ("Aluno ", Nome, ": ESTÁ DE RECUPERAÇÃO")
+              Escreval ("====================================")
+           SeNao
+              Escreval ("====================================")
+              Escreval ("MÉDIA: ", Media:4:2)
+              Escreval ("Aluno ", Nome, ": FOI REPROVADO")
+              Escreval ("====================================")
+           FimSe
+      FimSe
+Fimalgoritmo
