@@ -3,7 +3,8 @@
 
  Aqui serão postados todos os exercício e tarefas realizadas durante o curso de Algorito do [CURSO EM VÍDEO](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) com o Professor Gustavo Guanabara, no programa VisuAlg
  
- # :page_with_curl: Exercícios Vídeo-Aulas 06
+ # :page_with_curl: Exercícios Vídeo-Aula 06
+ ## :clapper: [Assistir o vídeo](https://www.youtube.com/watch?v=v2nCgGSVCeE&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=7&t=5s)
  **AULA 06**
  **Prática 1** - Saber a idade de uma pessoa<br/>
  [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2006%20Pr%C3%A1tica%201(Saber%20a%20idade%20de%20uma%20pessoa))<br/>
