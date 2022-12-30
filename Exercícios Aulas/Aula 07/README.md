@@ -3,7 +3,8 @@
 
  Aqui serão postados todos os exercício e tarefas realizadas durante o curso de Algorito do [CURSO EM VÍDEO](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) com o Professor Gustavo Guanabara, no programa VisuAlg
  
- # :page_with_curl: Exercícios Vídeo-Aulas 07
+ # :page_with_curl: Exercícios Vídeo-Aula 07
+ ## :clapper: [Assistir o vídeo](https://www.youtube.com/watch?v=_g05aHdBAEY&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=8)
  **AULA 07**
  **Prática 1** - Saber se atingiu a maioridade<br/>
  [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2007%20Pr%C3%A1tica%201(Saber%20se%20atingiu%20a%20maioridade))<br/>
