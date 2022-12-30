@@ -1,0 +1,49 @@
+algoritmo "Aula_08"
+//Exercício 1: Aproveitamento de um aluno
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 30/12/2022
+var
+   Nota1, Nota2, Nota3, Media:Real
+   Nome: Caractere
+inicio
+   Escreval("======================================")
+   Escreval("       APROVEITAMENTO DO ALUNO        ")
+   Escreval("======================================")
+   Escreva("Qual o nome do aluno? ")
+   Leia(Nome)
+   Escreval("--------------------------------------")
+   Escreva("Primeira Nota: ")
+   Leia(Nota1)
+   Escreval("--------------------------------------")
+   Escreva("Segunda Nota: ")
+   Leia(Nota2)
+   Escreval("--------------------------------------")
+   Escreva("Terceira Nota: ")
+   Leia(Nota3)
+   Media <- (Nota1 + Nota2 + Nota3) / 3
+   Escreval("================STATUS================")
+   Escreval("MÉDIA: ", Media:4:2)
+   Escreval("--------------------------------------")
+   Escolha Media
+   CASO 9, 10
+      Escreval("APROVEITAMENTO: A ")
+      Escreval("Parabéns ",Nome,", continue assim!")
+   CASO 8
+      Escreval("APROVEITAMENTO: B ")
+      Escreval("Parabéns ",Nome,"!")
+   CASO 7
+      Escreval("APROVEITAMENTO: C ")
+      Escreval("Parabéns ",Nome,", mais pode melhorar!")
+   CASO 6
+      Escreval("APROVEITAMENTO: D ")
+      Escreval("Cuidado ",Nome,", precisa melhorar!")
+   CASO 5
+      Escreval("APROVEITAMENTO: E ")
+      Escreval("Perigo ",Nome,", tem que estudar mais!")
+   CASO 1,2,3,4
+      Escreval("APROVEITAMENTO: F ")
+      Escreval("Estar muito ruim ", Nome,"!")
+   FimEscolha
+   Escreval("======================================")
+fimalgoritmo
