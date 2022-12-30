@@ -21,6 +21,15 @@
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%202(IMC%202)5.jpeg)
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%202(IMC%202)6.jpeg)
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%202(IMC%202)7.jpeg)<br/>
+
+ **AULA 08**
+ **Prática 2** - Criança esperança<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2008/Aula%2008%20Pr%C3%A1tica%203(Crian%C3%A7a%20Esperan%C3%A7a))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%203(Crian%C3%A7a%20espera%C3%A7a)1.jpeg)
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%203(Crian%C3%A7a%20espera%C3%A7a)2.jpeg)
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%203(Crian%C3%A7a%20espera%C3%A7a)3.jpeg)
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%203(Crian%C3%A7a%20espera%C3%A7a)4.jpeg)
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%203(Crian%C3%A7a%20espera%C3%A7a)5.jpeg)
  
 # :computer: Tecnologias utilizadas
 
