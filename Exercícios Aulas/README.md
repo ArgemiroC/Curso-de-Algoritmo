@@ -10,6 +10,7 @@
  [VÍDEO-AULA 04](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2004/README.md)<br/>
  [VÍDEO-AULA 06](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2006/README.md)<br/>
  [VÍDEO-AULA 07](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2007/README.md)<br/>
+ [VÍDEO-AULA 08](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2008/README.md)<br/>
  
 # :computer: Tecnologias utilizadas
 
