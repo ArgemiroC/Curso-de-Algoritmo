@@ -23,13 +23,21 @@
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%202(IMC%202)7.jpeg)<br/>
 
  **AULA 08**
- **Prática 2** - Criança esperança<br/>
+ **Prática 3** - Criança esperança<br/>
  [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2008/Aula%2008%20Pr%C3%A1tica%203(Crian%C3%A7a%20Esperan%C3%A7a))<br/>
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%203(Crian%C3%A7a%20espera%C3%A7a)1.jpeg)
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%203(Crian%C3%A7a%20espera%C3%A7a)2.jpeg)
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%203(Crian%C3%A7a%20espera%C3%A7a)3.jpeg)
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%203(Crian%C3%A7a%20espera%C3%A7a)4.jpeg)
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%203(Crian%C3%A7a%20espera%C3%A7a)5.jpeg)
+ 
+ **AULA 08**
+ **Prática 4** - Aumento de salário por dependente<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2008/Aula%2008%20Pr%C3%A1tica%204(Aumento%20de%20sal%C3%A1rio%20por%20dependente))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%204(Aumento%20de%20Sal%C3%A1rio%20por%20dependente)1.jpeg)
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%204(Aumento%20de%20Sal%C3%A1rio%20por%20dependente)2.jpeg)
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%204(Aumento%20de%20Sal%C3%A1rio%20por%20dependente)3.jpeg)
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Pr%C3%A1tica%204(Aumento%20de%20Sal%C3%A1rio%20por%20dependente)4.jpeg)
  
 # :computer: Tecnologias utilizadas
 
