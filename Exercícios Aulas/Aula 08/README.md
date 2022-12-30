@@ -3,7 +3,7 @@
 
  Aqui serão postados todos os exercício e tarefas realizadas durante o curso de Algorito do [CURSO EM VÍDEO](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) com o Professor Gustavo Guanabara, no programa VisuAlg
  
- # :page_with_curl: Exercícios Vídeo-Aulas 08
+ # :page_with_curl: Exercícios Vídeo-Aula 08
  ## :clapper: [Assistir o vídeo](https://www.youtube.com/watch?v=7gGFHzqh4d8&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=9)<BR/>
  **AULA 08**
  **Prática 1**- Viajar para Disney<br/> 
