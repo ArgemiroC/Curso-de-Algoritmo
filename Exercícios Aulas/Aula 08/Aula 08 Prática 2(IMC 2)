@@ -1,0 +1,57 @@
+Algoritmo "Aula_08"
+//Condicionais Aninhadas: IMC(2)
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 30/12/2022
+var
+   Peso, Altura, IMC: Real
+   Nome: Caractere
+inicio
+   Escreval("=====================================")
+   Escreval("           CALCULO DO IMC(2)         ")
+   Escreval("=====================================")
+   Escreva("Qual seu nome? ")
+   Leia(Nome)
+   Escreval("-------------------------------------")
+   Escreva (Nome, ", qual seu peso (kg): ")
+   Leia (Peso)
+   Escreval("-------------------------------------")
+   Escreva (Nome, ", qual a sua altura: ")
+   Leia (Altura)
+   Escreval("=====================================")
+   IMC <- Peso / (Altura ^ 2)
+   Escreval(Nome,", seu status atual é:")
+   Escreval (" -> IMC:", IMC:4:2)
+   Se (IMC < 17) entao
+      Escreval(" -> Muito abaixo do peso ideal ")
+      Escreval("=====================================")
+   SeNao
+      Se (IMC >= 17) e (IMC < 18.5) entao
+         Escreval (" -> Abaixo do Peso ")
+         Escreval("=====================================")
+      SeNao
+         Se (IMC >= 18.5) e (IMC < 25) entao
+            Escreval (" -> Peso Ideal ")
+            Escreval("=====================================")
+         SeNao
+            Se (IMC >= 25) e (IMC < 30) entao
+               Escreval (" -> Sobrepeso ")
+               Escreval("=====================================")
+            SeNao
+               Se (IMC >= 30) E (IMC < 35) entao
+                  Escreval (" -> Obesidade ")
+                  Escreval("=====================================")
+               SeNao
+                  Se (IMC >= 35) e (IMC < 40) entao
+                     Escreval (" -> Obsedade Severa ")
+                     Escreval("-------------------------------------")
+                  SeNao
+                     Escreval (" -> Obsedade Mórbida ")
+                     Escreval("=====================================")
+                  FimSe
+               FimSe
+            FimSe
+         FimSe
+      FimSe
+   FimSe
+fimalgoritmo
