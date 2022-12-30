@@ -1,0 +1,34 @@
+algoritmo "Aula_08"
+//Exercício 2: Partida de Futebol usando a condicional Se
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 30/12/2022
+var
+   Bangu, Madureira, Diferenca: Inteiro
+inicio
+   Escreval("=================================")
+   Escreval("       PARTIDA DE FUTEBOL        ")
+   Escreval("        -----------------        ")
+   Escreval("        BANGU X MADUREIRA        ")
+   Escreval("=================================")
+   Escreva("Quantos gols fez Bangu? ")
+   Leia (Bangu)
+   Escreva("Quantos gols fez Madureira? ")
+   Leia (Madureira)
+   Diferenca <- Abs (Bangu - Madureira)
+   Escreval("===========RESULTADO=============")
+   Escreval("DIFERENÇA:", Diferenca)
+   Escreva ("STATUS: ")
+   Se(Bangu = Madureira) entao
+      Escreval ("EMBATE ")
+   SeNao
+      Se(Diferenca <= 3) entao
+       Escreval ("PARTIDA NORMAL ")
+      SeNao
+        Se(Diferenca >= 4) entao
+          Escreval ("GOLEADA ")
+        FimSe
+      FimSe
+   FimSe
+   Escreval("=================================")
+fimalgoritmo
