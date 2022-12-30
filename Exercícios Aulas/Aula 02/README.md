@@ -3,7 +3,8 @@
 
  Aqui serão postados todos os exercício e tarefas realizadas durante o curso de Algorito do [CURSO EM VÍDEO](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) com o Professor Gustavo Guanabara, no programa VisuAlg
  
- # :page_with_curl: Exercícios Vídeo-Aulas 02
+ # :page_with_curl: Exercícios Vídeo-Aula 02
+ ## :clapper: [Assistir o vídeo](https://www.youtube.com/watch?v=M2Af7gkbbro&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=2&t=2s)<br/>
  **AULA 02**
  **Prática 1**- Primeiro Algoritmo<br/> 
  [código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2002%20Pr%C3%A1tica%201(Primeiro%20Algoritmo))<br/> 
