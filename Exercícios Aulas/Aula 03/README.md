@@ -3,7 +3,8 @@
 
  Aqui serão postados todos os exercício e tarefas realizadas durante o curso de Algorito do [CURSO EM VÍDEO](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) com o Professor Gustavo Guanabara, no programa VisuAlg
  
- # :page_with_curl: Exercícios Vídeo-Aulas 03
+ # :page_with_curl: Exercícios Vídeo-Aula 03
+ ## :clapper: [Assistir o vídeo](https://www.youtube.com/watch?v=RDrfZ-7WE8c&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=3)
  **AULA 03**
  **Prática 1** - Soma de dois números<br/> 
  [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2003%20Pr%C3%A1tica%201(Soma%20de%20dois%20n%C3%BAmeros))<br/> 
