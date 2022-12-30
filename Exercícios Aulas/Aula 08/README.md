@@ -50,8 +50,9 @@
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Exerc%C3%ADcio%201(Aproveitmento%20de%20um%20aluno)6.jpeg)
  
  **AULA 08**
- **Exercício 2** - Partida de futebol usando a condicional escolha.<br/>
- [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2008/Aula%2008%20Exerc%C3%ADcio%202(Partida%20de%20futebol%20-%20Escolha))<br/>
+ **Exercício 2** - Partida de futebol<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2008/Aula%2008%20Exerc%C3%ADcio%202(Partida%20de%20futebol%20-%20Escolha)) - Usando a Condicional (Escolha)<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2008/Aula%2008%20Exerc%C3%ADcio%202(Partida%20de%20futebol%20-%20Se)) - Usando a Condicional (Se)<br/>
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Exerc%C3%ADcio%202(Partida%20de%20Futebol%20-%20Escolha)1.jpeg)
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Exerc%C3%ADcio%202(Partida%20de%20Futebol%20-%20Escolha)2.jpeg)
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2008%20Exerc%C3%ADcio%202(Partida%20de%20Futebol%20-%20Escolha)3.jpeg)
