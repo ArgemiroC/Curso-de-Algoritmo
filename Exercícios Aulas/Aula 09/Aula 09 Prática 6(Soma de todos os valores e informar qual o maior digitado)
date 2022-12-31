@@ -1,0 +1,28 @@
+algoritmo "Aula_09"
+//Estruturas de Repetição: Enquanto - Somar Valores e informar o maior valor digitado
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 31/12/2022
+Var
+   Contador, Numero, Soma, Maior: Inteiro
+Inicio
+   Escreval("=================================")
+   Escreval("        SOMA DOS VALORES         ")
+   Escreval("=================================")
+   Contador <- 1
+   Soma <- 0
+   Enquanto (Contador <= 5) faca
+      Escreva ("Digite o", Contador, "o. Valor: ")
+      Leia(Numero)
+      Se (Numero > Maior) entao
+         Maior <- Numero
+      FimSe
+      Soma <- Soma + Numero
+      Contador <- Contador + 1
+   FimEnquanto
+   Escreval("=================================")
+   Escreval("  Soma de todos valores é", Soma  )
+   Escreval("---------------------------------")
+   Escreval("O maior número digitado foi ", Maior)
+   Escreval("=================================")
+Fimalgoritmo
