@@ -7,7 +7,7 @@ Var
    Contador: Inteiro
 Inicio
    Escreval("=================================")
-   Escreval("           CONTAR ATÉ 10         ")
+   Escreval("          CONTAR de 10 a 0       ")
    Escreval("=================================")
    Contador <- 10
    Enquanto (Contador >= 0) faca
