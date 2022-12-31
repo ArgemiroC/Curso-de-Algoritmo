@@ -26,19 +26,19 @@
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2009%20Pr%C3%A1tica%204(Contar%20at%C3%A9%20quanto%2C%20com%20salto).jpeg)
  
  **AULA 09**
- **Prática 5** - <br/>
- [Código]()<br/>
- ![This is an image]()
+ **Prática 5** - Soma de todos os valores<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2009/Aula%2009%20Pr%C3%A1tica%205(Soma%20de%20todos%20os%20valores))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2009%20Pr%C3%A1tica%205(Soma%20de%20todos%20os%20valores).jpeg)
  
  **AULA 09**
- **Prática 6** - <br/>
- [Código]()<br/>
- ![This is an image]()
+ **Prática 6** - Soma de todos os valores e informar maior valor digitado<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2009/Aula%2009%20Pr%C3%A1tica%206(Soma%20de%20todos%20os%20valores%20e%20informar%20qual%20o%20maior%20digitado))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2009%20Pr%C3%A1tica%206(Soma%20de%20todos%20os%20valores%20e%20informar%20o%20maior%20valor%20digitado).jpeg)
  
  **AULA 09**
- **Prática 7** - <br/>
- [Código]()<br/>
- ![This is an image]()
+ **Prática 7** - Soma de todos os valores e informar maior e menor valor digitado<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2009/Aula%2009%20Pr%C3%A1tica%207(Soma%20de%20todos%20os%20valores%20e%20informar%20o%20maior%20e%20menor%20digitado))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2009%20Pr%C3%A1tica%207(Soma%20de%20todos%20os%20valores%20e%20informar%20o%20maior%20e%20menor%20valor%20digitado).jpeg)
  
  **AULA 09**
  **Prática 8** - <br/>
