@@ -13,7 +13,7 @@ Inicio
    Escreva("Quer contar até quanto? ")
    Leia(Valor)
    Escreval("---------------------------------")
-   eSCREVA("Qual será o valor do salto? ")
+   Escreva("Qual será o valor do salto? ")
    Leia(Salto)
    Enquanto (Contador <= Valor) faca
       Escreva (Contador)
