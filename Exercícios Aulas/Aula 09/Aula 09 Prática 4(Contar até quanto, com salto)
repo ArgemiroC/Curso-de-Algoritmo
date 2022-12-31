@@ -1,0 +1,26 @@
+algoritmo "Aula_09"
+//Estruturas de Repetição: Enquanto - Contar até onde o usuário quiser com salto
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 31/12/2022
+Var
+   Contador, Valor, Salto: Inteiro
+Inicio
+   Escreval("=================================")
+   Escreval("  CONTAR ATÉ QUANTO, COM SALTO   ")
+   Escreval("=================================")
+   Contador <- 0
+   Escreva("Quer contar até quanto? ")
+   Leia(Valor)
+   Escreval("---------------------------------")
+   eSCREVA("Qual será o valor do salto? ")
+   Leia(Salto)
+   Enquanto (Contador <= Valor) faca
+      Escreva (Contador)
+      Contador <- Contador + Salto
+   FimEnquanto
+   Escreval()
+   Escreval("=================================")
+   Escreval("        Terminei de Contar       ")
+   Escreval("=================================")
+Fimalgoritmo
