@@ -84,6 +84,20 @@ Obs: O IMC é calculado pela expressão peso/altura² (peso dividido pelo quadra
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2034(IMC)4.jpeg)
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2034(IMC)5.jpeg)
 
+35) Uma empresa de aluguel de carros precisa cobrar pelos seus serviços. O aluguel de um carro custa R$90 por dia para carro popular e R$150 por dia para carro de luxo. Além disso, o cliente paga por Km percorrido. Faça um programa que leia o tipo de carro alugado (popular ou luxo), quantos dias de aluguel e
+quantos Km foram percorridos. No final mostre o preço a ser pago de acordo com a tabela a seguir:<br/>
+- Carros populares (aluguel de R$90 por dia)<br/>
+- Até 100Km percorridos: R$0,20 por Km<br/>
+- Acima de 100Km percorridos: R$0,10 por Km<br/>
+- Carros de luxo (aluguel de R$150 por dia)<br/>
+- Até 200Km percorridos: R$0,30 por Km<br/>
+- Acima de 200Km percorridos: R$0,25 por Km<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2003/Exerc%C3%ADcio%2035%20-%20Aluguel%20de%20Carro)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2035(Aluguem%20de%20Carro)1.jpeg)
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2035(Aluguem%20de%20Carro)2.jpeg)
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2035(Aluguem%20de%20Carro)3.jpeg)
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2035(Aluguem%20de%20Carro)4.jpeg)
+
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
