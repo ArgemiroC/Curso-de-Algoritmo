@@ -1,0 +1,28 @@
+algoritmo "Aula_09"
+//Estruturas de Repetição: Enquanto - Conversor de moeda
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 31/12/2022
+var
+   Contador, Repeticao: Inteiro
+   Reais, Dolares: Real
+inicio
+   Escreval("======================================")
+   Escreval("         CONVERSOR DE MOEDAS          ")
+   Escreval("======================================")
+   Contador <- 1
+   Escreva ("Quantas vezes voce quer convernter? ")
+   Leia(Repeticao)
+   Escreval("--------------------------------------")
+   Enquanto (Contador <= Repeticao) faca
+            Escreva("Qual o valor em R$ ? ")
+            Leia(Reais)
+            Dolares <- Reais/5.29
+            EscrevaL("O valor convertido e US$ ", Dolares:5:2)
+            Contador <- Contador + 1
+            Escreval("--------------------------------------")
+   FimEnquanto
+   Escreval("======================================")
+   Escreval(" OBRIGADO POR USAR NOSSOS SERVIÇOS!   ")
+   Escreval("======================================")
+fimalgoritmo
