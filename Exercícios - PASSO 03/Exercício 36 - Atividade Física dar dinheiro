@@ -1,0 +1,43 @@
+algoritmo "Exercício_36"
+//Um programa de vida saudável quer dar pontos atividades físicas que podem ser trocados por dinheiro. O sistema funciona assim:
+//- Cada hora de atividade física no mês vale pontos
+//- até 10h de atividade no mês: ganha 2 pontos por hora
+//- de 10h até 20h de atividade no mês: ganha 5 pontos por hora
+//- acima de 20h de atividade no mês: ganha 10 pontos por hora
+//- A cada ponto ganho, o cliente fatura R$0,05 (5 centavos)
+//Faça um programa que leia quantas horas de atividade uma pessoa teve por mês, calcule e mostre quantos pontos ela teve e quanto dinheiro ela conseguiu ganhar.
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 31/12/2022
+var
+   Nome: Caractere
+   Horas: Inteiro
+   Recompensa, Valor: Real
+inicio
+   Escreval("=================================================")
+   Escreval("          ATIVIDADE FÍSICA DAR DINHEIRO          ")
+   Escreval("=================================================")
+   Escreva("Qual o nome do cliente? ")
+   Leia(Nome)
+   Escreval("-------------------------------------------------")
+   Escreva("Quantas horas de atividade física esse mês? ")
+   Leia(Horas)
+   Escreval("-------------------------------------------------")
+   Se(Horas < 10) entao
+      Recompensa <- Horas * 2
+   SeNao
+      Se(Horas >= 10) e (Horas < 20) entao
+         Recompensa <- Horas * 5
+      SeNao
+         Se(Horas >= 20) entao
+            Recompensa <- Horas * 10
+         FimSe
+      FimSe
+   FimSe
+   Valor <- (Recompensa * 5) / 1000
+   Escreval("=================================================")
+   Escreval("Sr. ", Nome)
+   Escreval("Esse mês o Sr. teve", Horas, " horas de atividade física")
+   Escreval("O valor em dinheiro ganho foi R$ ", Valor:4:2)
+   Escreval("=================================================")
+fimalgoritmo
