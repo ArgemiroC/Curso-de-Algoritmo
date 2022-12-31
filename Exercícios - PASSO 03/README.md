@@ -98,6 +98,18 @@ quantos Km foram percorridos. No final mostre o preço a ser pago de acordo com 
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2035(Aluguem%20de%20Carro)3.jpeg)
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2035(Aluguem%20de%20Carro)4.jpeg)
 
+36) Um programa de vida saudável quer dar pontos atividades físicas que podem ser trocados por dinheiro. O sistema funciona assim:<br/>
+- Cada hora de atividade física no mês vale pontos<br/>
+- até 10h de atividade no mês: ganha 2 pontos por hora<br/>
+- de 10h até 20h de atividade no mês: ganha 5 pontos por hora<br/>
+- acima de 20h de atividade no mês: ganha 10 pontos por hora<br/>
+- A cada ponto ganho, o cliente fatura R$0,05 (5 centavos)<br/>
+Faça um programa que leia quantas horas de atividade uma pessoa teve por mês, calcule e mostre quantos pontos ela teve e quanto dinheiro ela conseguiu ganhar.<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2003/Exerc%C3%ADcio%2036%20-%20Atividade%20F%C3%ADsica%20dar%20dinheiro)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2036(Atividade%20f%C3%ADsica%20dar%20dinheiro)1.jpeg)
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2036(Atividade%20f%C3%ADsica%20dar%20dinheiro)2.jpeg)
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2036(Atividade%20f%C3%ADsica%20dar%20dinheiro)3.jpeg)
+
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
