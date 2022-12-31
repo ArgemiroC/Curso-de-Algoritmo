@@ -1,0 +1,32 @@
+algoritmo "Aula_09"
+//Estruturas de Repetição: Enquanto - Contagem Inteligente
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 31/12/2022
+var
+   Inicial , Final: Inteiro
+inicio
+   Escreval ("=================================")
+   Escreval ("       CONTAGEM INTELIGENTE      ")
+   Escreval ("=================================")
+   Escreva ("Contagem Inicial: ")
+   Leia (Inicial)
+   Escreva ("Final da contagem: ")
+   Leia (Final)
+   Escreval ("---------------------------------")
+   Se (Inicial < Final) entao
+        Enquanto (Inicial <= Final) faca
+                 Escreval (Inicial, "...")
+                 Inicial <- (Inicial + 1)
+        FimEnquanto
+   Senao
+        Enquanto (Inicial >= Final) faca
+                 Escreval(Inicial, "...")
+                 Inicial <- (Inicial - 1)
+        FimEnquanto
+   FimSe
+   Escreval ("=================================")
+   Escreval ("         FIM DA CONTAGEM         ")
+   Escreval ("=================================")
+fimalgoritmo
+
