@@ -1,0 +1,17 @@
+algoritmo "Aula_09"
+//Estruturas de Repetição: Enquanto - Contar até 10
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 31/12/2022
+Var
+   Contador: Inteiro
+Inicio
+   Escreval("=========================")
+   Escreval("       CONTAR ATÉ 10     ")
+   Escreval("=======================  ")
+   Contador <- 0
+   Enquanto(Contador <= 10) faca
+      Escreval(Contador)
+      Contador <- Contador + 1
+   FimEnquanto
+Fimalgoritmo
