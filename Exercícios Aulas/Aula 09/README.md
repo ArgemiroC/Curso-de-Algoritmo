@@ -41,24 +41,20 @@
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2009%20Pr%C3%A1tica%207(Soma%20de%20todos%20os%20valores%20e%20informar%20o%20maior%20e%20menor%20valor%20digitado).jpeg)
  
  **AULA 09**
- **Prática 8** - <br/>
- [Código]()<br/>
- ![This is an image]()
- 
- **AULA 09**
- **Prática 9** - <br/>
- [Código]()<br/>
- ![This is an image]()
+ **Prática 8** - Conversor de Moedas com Repetição<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2009/Aula%2009%20Pr%C3%A1tica%208(Conversor%20de%20Moedas))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2009%20Pr%C3%A1tica%208(Conversor%20de%20Moedas).jpeg)
 
  **AULA 09**
- **Exercício 1** - <br/>
- [Código]()<br/>
- ![This is an image]()
+ **Exercício 1** - Contagem Inteligente<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2009/Aula%2009%20Exerc%C3%ADcio%201(Contagem%20Inteligente))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2009%20Exerc%C3%ADcio%201(Contagem%20Inteligente)1.jpeg)
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2009%20Exerc%C3%ADcio%201(Contagem%20Inteligente)2.jpeg)
  
  **AULA 09**
- **Exercício 2** - <br/>
- [Código]()<br/>
- ![This is an image]()
+ **Exercício 2** - Melhor Aluno<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2009/Aula%2009%20Exerc%C3%ADcio%202(Melhor%20Aluno))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2009%20Exerc%C3%ADcio%202(Melhor%20Aluno).jpeg)
  
 # :computer: Tecnologias utilizadas
 
