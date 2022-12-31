@@ -16,14 +16,14 @@
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2009%20Pr%C3%A1tica%202(Contar%2010%20a%200).jpeg)
 
  **AULA 09**
- **Prática 3** - <br/>
+ **Prática 3** - Contar até quanto?<br/>
  [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2009/Aula%2009%20Pr%C3%A1tica%203(Contar%20at%C3%A9%20quanto))<br/>
  ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2009%20Pr%C3%A1tica%203(Contar%20at%C3%A9%20quanto).jpeg)
  
  **AULA 09**
- **Prática 4** - <br/>
- [Código]()<br/>
- ![This is an image]()
+ **Prática 4** - Contar até quanto? Com Salto<br/>
+ [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20Aulas/Aula%2009/Aula%2009%20Pr%C3%A1tica%204(Contar%20at%C3%A9%20quanto%2C%20com%20salto))<br/>
+ ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Aula%2009%20Pr%C3%A1tica%204(Contar%20at%C3%A9%20quanto%2C%20com%20salto).jpeg)
  
  **AULA 09**
  **Prática 5** - <br/>
