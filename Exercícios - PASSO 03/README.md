@@ -110,6 +110,23 @@ Faça um programa que leia quantas horas de atividade uma pessoa teve por mês, 
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2036(Atividade%20f%C3%ADsica%20dar%20dinheiro)2.jpeg)
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2036(Atividade%20f%C3%ADsica%20dar%20dinheiro)3.jpeg)
 
+37) Uma empresa precisa reajustar o salário dos seus funcionários, dando um aumento de acordo com alguns fatores. Faça um programa que leia o salário atual, o gênero do funcionário e há quantos anos esse funcionário trabalha na empresa. No final, mostre o seu novo salário, baseado na tabela a seguir:<br/>
+- Mulheres<br/>
+-- menos de 15 anos de empresa: +5%<br/>
+-- de 15 até 20 anos de empresa: +12%<br/>
+-- mais de 20 anos de empresa: +23%<br/>
+- Homens<br/>
+-- menos de 20 anos de empresa: +3%<br/>
+-- de 20 até 30 anos de empresa: +13%<br/>
+-- mais de 30 anos de empresa: +25%<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2003/Exerc%C3%ADcio%2037%20-%20Aumento%20de%20sal%C3%A1rio)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2037(Aumento%20de%20sal%C3%A1rio)1.jpeg)
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2037(Aumento%20de%20sal%C3%A1rio)2.jpeg)
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2037(Aumento%20de%20sal%C3%A1rio)3.jpeg)
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2037(Aumento%20de%20sal%C3%A1rio)4.jpeg)
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2037(Aumento%20de%20sal%C3%A1rio)5.jpeg)
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2037(Aumento%20de%20sal%C3%A1rio)6.jpeg)
+
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
