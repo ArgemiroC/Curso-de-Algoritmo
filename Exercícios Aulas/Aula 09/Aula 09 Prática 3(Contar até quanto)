@@ -1,0 +1,23 @@
+algoritmo "Aula_09"
+//Estruturas de Repetição: Enquanto - Contar até onde o usuário quiser
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 31/12/2022
+Var
+   Contador, Valor: Inteiro
+Inicio
+   Escreval("=================================")
+   Escreval("         CONTAR ATÉ QUANTO?      ")
+   Escreval("=================================")
+   Contador <- 0
+   Escreva("Quer contar até quanto? ")
+   Leia(Valor)
+   Enquanto (Contador <= Valor) faca
+      Escreva (Contador)
+      Contador <- Contador + 1
+   FimEnquanto
+   Escreval()
+   Escreval("=================================")
+   Escreval("        Terminei de Contar       ")
+   Escreval("=================================")
+Fimalgoritmo
