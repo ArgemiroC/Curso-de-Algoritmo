@@ -1,0 +1,23 @@
+algoritmo "Aula_09"
+//Estruturas de Repetição: Enquanto - Somar Valores
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 31/12/2022
+Var
+   Contador, Numero, Soma: Inteiro
+Inicio
+   Escreval("=================================")
+   Escreval("        SOMA DOS VALORES         ")
+   Escreval("=================================")
+   Contador <- 1
+   Soma <- 0
+   Enquanto (Contador <= 5) faca
+      Escreva ("Digite o", Contador, "o. Valor: ")
+      Leia(Numero)
+      Soma <- Soma + Numero
+      Contador <- Contador + 1
+   FimEnquanto
+   Escreval("=================================")
+   Escreval("  Soma de todos valores é", Soma  )
+   Escreval("=================================")
+Fimalgoritmo
