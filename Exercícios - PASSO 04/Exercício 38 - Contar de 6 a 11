@@ -1,0 +1,20 @@
+algoritmo "Exercício_38"
+//38) Escreva um programa que mostre na tela a seguinte contagem:
+//6 7 8 9 10 11 Acabou!
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 01/01/2023
+Var
+   Contador: Inteiro
+Inicio
+   Escreval("================================")
+   Escreval("         CONTAR DE 6 A 11       ")
+   Escreval("================================")
+   Contador <- 6
+   Enquanto (Contador <= 11) faca
+      Escreva(Contador)
+      Contador <- Contador + 1
+   FimEnquanto
+   EscrevaL("  ACABOU!")
+   Escreval("================================")
+Fimalgoritmo
