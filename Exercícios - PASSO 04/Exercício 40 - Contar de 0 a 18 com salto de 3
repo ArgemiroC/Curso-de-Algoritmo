@@ -1,0 +1,20 @@
+algoritmo "Exercício_40"
+//Crie um aplicativo que mostre na tela a seguinte contagem:
+//0 3 6 9 12 15 18 Acabou!
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 31/12/2022
+Var
+   Contador: Inteiro
+Inicio
+   Escreval("=================================")
+   Escreval(" CONTAR DE 0 A 18 COM SALTO DE 3 ")
+   Escreval("=================================")
+   Contador <- 0
+   Enquanto (Contador <= 18) faca
+      Escreva(Contador)
+      Contador <- Contador + 3
+   FimEnquanto
+   EscrevaL("  ACABOU!")
+   Escreval("=================================")
+Fimalgoritmo
