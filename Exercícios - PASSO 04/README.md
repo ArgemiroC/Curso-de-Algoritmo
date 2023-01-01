@@ -6,10 +6,9 @@
  # :page_with_curl: Exercícios
  **PASSO 04 - REPETIÇÕES ENQUANTO**
 
-38) 
-[Código]()<br/>
-![This is an image]()
-
+38) Escreva um programa que mostre na tela a seguinte contagem: 6 7 8 9 10 11 Acabou!<br/> 
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2004/Exerc%C3%ADcio%2038%20-%20Contar%20de%206%20a%2011)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2038(Contar%20de%206%20a%2011).jpeg)
 
 # :computer: Tecnologias utilizadas
 
