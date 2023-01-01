@@ -1,0 +1,24 @@
+algoritmo "Exercício_42"
+//Faça um algoritmo que pergunte ao usuário um número inteiro e positivo qualquer e mostre uma contagem até esse valor:
+//Ex: Digite um valor: 35
+//Contagem: 1 2 3 4 5 6 7 ... 33 34 35 Acabou!
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 01/01/2023
+Var
+   Contador, Valor: Inteiro
+Inicio
+   Escreval("=================================")
+   Escreval("        CONTAR ATÉ QUANTO?       ")
+   Escreval("=================================")
+   Escreva("Quer contar até quanto? " )
+   Leia(Valor)
+   Escreval("---------------------------------")
+   Contador <- 0
+   Enquanto (Contador <= Valor) faca
+      Escreva(Contador)
+      Contador <- Contador + 1
+   FimEnquanto
+   EscrevaL(" ACABOU!")
+   Escreval("=================================")
+Fimalgoritmo
