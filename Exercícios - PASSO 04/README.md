@@ -14,6 +14,10 @@
 [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2004/Exerc%C3%ADcio%2039%20-%20Contar%20de%2010%20a%203)<br/>
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2039(Contar%20de%2010%20a%203).jpeg)
 
+40) Crie um aplicativo que mostre na tela a seguinte contagem: 0 3 6 9 12 15 18 Acabou!<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2004/Exerc%C3%ADcio%2040%20-%20Contar%20de%200%20a%2018%20com%20salto%20de%203)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2040(Contar%20de%200%20A%2018%20com%20salto%20de%203).jpeg)
+
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
