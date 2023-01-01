@@ -1,0 +1,20 @@
+algoritmo "Exercício_41"
+//Desenvolva um programa que mostre na tela a seguinte contagem:
+//100 95 90 85 80 ... 0 Acabou!
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 01/01/2023
+Var
+   Contador: Inteiro
+Inicio
+   Escreval("=================================")
+   Escreval("CONTAR DE 100 A 80 COM SALTO DE 5")
+   Escreval("=================================")
+   Contador <- 100
+   Enquanto (Contador >= 80) faca
+      Escreva(Contador)
+      Contador <- Contador - 5
+   FimEnquanto
+   EscrevaL("... ACABOU!")
+   Escreval("=================================")
+Fimalgoritmo
