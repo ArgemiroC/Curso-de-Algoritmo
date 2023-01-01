@@ -1,0 +1,20 @@
+algoritmo "Exercício_39"
+//Faça um algoritmo que mostre na tela a seguinte contagem:
+//10 9 8 7 6 5 4 3 Acabou!
+//AUTOR: Argemiro Correia
+//Curso em Vídeo: Algoritmos - Gustavo Guanabara
+//DATA: 31/12/2022
+Var
+   Contador: Inteiro
+Inicio
+   Escreval("================================")
+   Escreval("         CONTAR DE 10 A 3       ")
+   Escreval("================================")
+   Contador <- 10
+   Enquanto (Contador >= 3) faca
+      Escreva(Contador)
+      Contador <- Contador - 1
+   FimEnquanto
+   EscrevaL("  ACABOU!")
+   Escreval("================================")
+Fimalgoritmo
