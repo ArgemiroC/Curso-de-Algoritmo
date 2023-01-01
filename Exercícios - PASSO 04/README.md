@@ -10,6 +10,10 @@
 [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2004/Exerc%C3%ADcio%2038%20-%20Contar%20de%206%20a%2011)<br/>
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2038(Contar%20de%206%20a%2011).jpeg)
 
+39) Faça um algoritmo que mostre na tela a seguinte contagem: 10 9 8 7 6 5 4 3 Acabou!<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2004/Exerc%C3%ADcio%2039%20-%20Contar%20de%2010%20a%203)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2039(Contar%20de%2010%20a%203).jpeg)
+
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
