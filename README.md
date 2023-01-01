@@ -1,4 +1,4 @@
-![image](https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/19661_4C6F5F9D6B66375A-4.jpeg?w=876&h=484&crop=1)
+![image](http://jagsystem.com/img/sites/img_codigo_programacao.jpg)
 # :books: Curso de Algoritmo
 **Exercicío do Curso de Algoritmo**
 
