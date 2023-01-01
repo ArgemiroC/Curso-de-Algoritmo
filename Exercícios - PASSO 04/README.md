@@ -28,6 +28,10 @@ Contagem: 1 2 3 4 5 6 7 ... 33 34 35 Acabou!<br/>
 [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2004/Exerc%C3%ADcio%2042%20-%20Contar%20at%C3%A9%20quanto)<br/>
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2042(Contar%20at%C3%A9%20quanto).jpeg)
 
+43) Desenvolva um algoritmo que mostre uma contagem regressiva de 30 até 1, marcando os números que forem divisíveis por 4, exatamente como mostrado abaixo: 30 29 [28] 27 26 25 [24] 23 22 21 [20] 19 18 17 [16]...<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2004/Exerc%C3%ADcio%2043%20-%20Contagem%20regressiva%20marcando%20n%C3%BAmeros)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2043(Contagem%20regressiva%20marcando%20n%C3%BAmeros).jpeg)
+
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
