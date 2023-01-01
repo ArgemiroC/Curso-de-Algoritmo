@@ -1,4 +1,4 @@
-![image](http://jagsystem.com/img/sites/img_codigo_programacao.jpg)
+![image](https://www.enterprisestorageforum.com/wp-content/uploads/2021/12/Storage-software.jpg)
 # :books: Curso de Algoritmo
 **Exercicío do Curso de Algoritmo**
 
