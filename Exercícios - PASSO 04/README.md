@@ -22,6 +22,12 @@
 [Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2004/Exerc%C3%ADcio%2041%20-%20Contar%20de%20100%20a%2080...%20com%20salto%20de%205)<br/>
 ![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2041(Contar%20de%20100%20a%2080...%20com%20salto%20de%205).jpeg)
 
+42) Faça um algoritmo que pergunte ao usuário um número inteiro e positivo qualquer e mostre uma contagem até esse valor:<br/>
+Ex: Digite um valor: 35<br/>
+Contagem: 1 2 3 4 5 6 7 ... 33 34 35 Acabou!<br/>
+[Código](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Exerc%C3%ADcios%20-%20PASSO%2004/Exerc%C3%ADcio%2042%20-%20Contar%20at%C3%A9%20quanto)<br/>
+![This is an image](https://github.com/ArgemiroC/Curso-de-Algoritmo/blob/main/Imagens/Exerc%C3%ADcio%2042(Contar%20at%C3%A9%20quanto).jpeg)
+
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
