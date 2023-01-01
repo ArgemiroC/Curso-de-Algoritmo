@@ -3,7 +3,7 @@ algoritmo "Exercício_39"
 //10 9 8 7 6 5 4 3 Acabou!
 //AUTOR: Argemiro Correia
 //Curso em Vídeo: Algoritmos - Gustavo Guanabara
-//DATA: 31/12/2022
+//DATA: 01/01/2022
 Var
    Contador: Inteiro
 Inicio
